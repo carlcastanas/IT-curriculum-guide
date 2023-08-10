@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./image.gif" alt="iCreatechs Logo">
+  <video controls width="300" height="200">
+    <source src="./video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   <h1>IT Curriculum and Training Guide</h1>
   <p>Welcome to the IT Curriculum and Training Guide! This document outlines a comprehensive curriculum for aspiring IT professionals, along with recommended resources, possible job roles, and a suggested time frame for each subject of study.</p>
 </div>
