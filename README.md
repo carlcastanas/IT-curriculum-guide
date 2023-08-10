@@ -4,7 +4,17 @@
   
   <p>Welcome to the IT Curriculum and Training Guide! This document outlines a comprehensive curriculum for aspiring IT professionals, along with recommended resources, possible job roles, and a suggested time frame for each subject of study.</p>
 </div>
+<div align="center">
 
+[![GitHub Actions Build Status](https://img.shields.io/github/workflow/status/carlcastanas/IT-curriculum-guide/Build%20and%20Test)](https://github.com/carlcastanas/IT-curriculum-guide/actions)
+[![License](https://img.shields.io/github/license/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/blob/main/LICENSE)
+[![Repo Size](https://img.shields.io/github/repo-size/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide)
+[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/network/members)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=carlcastanas.IT-curriculum-guide)
+
+</div>
 ## Curriculum Overview
 
 - [Programming Fundamentals](#programming-fundamentals)
