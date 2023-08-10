@@ -53,10 +53,25 @@ Welcome to the IT Curriculum and Training Guide! This document outlines a compre
 - Cloud Solutions Architect
 
 ## Training Resources
-- [Udemy](https://www.udemy.com/), [Coursera](https://www.coursera.org/), [edX](https://www.edx.org/)
-- [Codecademy](https://www.codecademy.com/), [FreeCodeCamp](https://www.freecodecamp.org/)
-- [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/)
-- [YouTube](https://www.youtube.com/) tutorials and tech blogs
+
+### Online Learning Platforms
+- [Udemy](https://www.udemy.com/)
+- [Coursera](https://www.coursera.org/)
+- [edX](https://www.edx.org/)
+- [Codecademy](https://www.codecademy.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Khan Academy](https://www.khanacademy.org/)
+
+### Coding Practice and Challenges
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [CodeSignal](https://codesignal.com/)
+- [Project Euler](https://projecteuler.net/)
+
+### Documentation and Tutorials
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [W3Schools](https://www.w3schools.com/)
+- [DevDocs](https://devdocs.io/)
 
 ## Study Time Frame (in weeks)
 
@@ -69,11 +84,59 @@ Welcome to the IT Curriculum and Training Guide! This document outlines a compre
 | Cybersecurity           | 4 |
 | Cloud Computing         | 4 |
 
-## Improving IT Skills
-- Join online coding communities and forums
-- Contribute to open-source projects on GitHub
-- Attend tech meetups, workshops, and conferences
-- Follow industry influencers and thought leaders on social media
-- Continuous practice through coding challenges and real-world projects
+## 2-Year Time Frame Roadmap
 
-Feel free to tailor this curriculum to your interests and goals. The IT field is constantly evolving, so stay curious, keep learning, and explore new technologies to stay relevant in this dynamic industry.
+### Year 1
+
+#### First Quarter
+- Programming Fundamentals
+- Web Development (HTML, CSS, JavaScript)
+
+#### Second Quarter
+- Web Development (Frontend frameworks)
+- Databases (Relational databases and SQL)
+
+#### Third Quarter
+- Networking Basics
+- Databases (Database design and normalization)
+
+#### Fourth Quarter
+- Cybersecurity (Introduction)
+- Cloud Computing (Introduction)
+
+### Year 2
+
+#### First Quarter
+- Web Development (Backend technologies)
+- Cybersecurity (Cryptography and Network Security)
+
+#### Second Quarter
+- Networking Basics (IP addressing, subnetting)
+- Cloud Computing (Virtualization and containerization)
+
+#### Third Quarter
+- Cybersecurity (Ethical hacking, penetration testing)
+- Cloud Computing (Cloud services and deployment models)
+
+#### Fourth Quarter
+- Finalize any remaining subjects
+- Enhance skills in specific areas of interest
+- Continuous learning and project building
+
+## Tips for Improving IT Skills
+
+- **Consistent Practice:** Regularly practice coding, problem-solving, and hands-on projects to reinforce your skills.
+
+- **Project Building:** Create personal projects to apply what you've learned in real-world scenarios.
+
+- **Collaboration:** Join coding communities, forums, and open-source projects to collaborate and learn from others.
+
+- **Networking:** Attend tech meetups, conferences, and workshops to network with professionals in the field.
+
+- **Online Communities:** Participate in tech discussions on platforms like [Stack Overflow](https://stackoverflow.com/) and [Reddit](https://www.reddit.com/r/learnprogramming/).
+
+- **Stay Curious:** Explore emerging technologies and trends to stay updated with the rapidly evolving IT landscape.
+
+- **Continuous Learning:** Set aside time for continuous learning, even after you've covered the core curriculum.
+
+Feel free to tailor this curriculum to your interests and goals. The IT field is constantly evolving, so stay curious, keep learning
