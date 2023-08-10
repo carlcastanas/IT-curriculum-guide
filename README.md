@@ -1,10 +1,7 @@
 <div align="center">
   <img src="./image.gif" alt="iCreatechs Logo">
   <h2>IT Curriculum and Training Guide</h2>
-  
-  <p>Welcome to the IT Curriculum and Training Guide! This document outlines a comprehensive curriculum for aspiring IT professionals, along with recommended resources, possible job roles, and a suggested time frame for each subject of study.</p>
-</div>
-<div align="center">
+  <div align="center">
 
 [![GitHub Actions Build Status](https://img.shields.io/github/workflow/status/carlcastanas/IT-curriculum-guide/Build%20and%20Test)](https://github.com/carlcastanas/IT-curriculum-guide/actions)
 [![License](https://img.shields.io/github/license/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/blob/main/LICENSE)
@@ -16,6 +13,9 @@
 
 
 </div>
+  <p>Welcome to the IT Curriculum and Training Guide! This document outlines a comprehensive curriculum for aspiring IT professionals, along with recommended resources, possible job roles, and a suggested time frame for each subject of study.</p>
+</div>
+
 ## Curriculum Overview
 
 - [Programming Fundamentals](#programming-fundamentals)
