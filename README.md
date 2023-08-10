@@ -22,6 +22,7 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 	- [Concepts You Need to Know](https://www.educative.io/answers/what-are-the-basic-fundamental-concepts-of-programming)
 	- [Roadmaps For Your Career](https://roadmap.sh)
 	- [Git: Version Control Systems ](https://learn.microsoft.com/en-us/training/modules/intro-to-git/)
+	- [Check This Resources You'll Love!](#training-resources)
 - Web Development
 	- [Frontend Guide](#frontend-mini-guide)
 	- [Backend Guide](#backend-mini-guide)
@@ -275,7 +276,6 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 - [Pluralsight](https://www.pluralsight.com/)
 - [Google Developers](https://developers.google.com/learn)
 - [Microsoft Learn](https://learn.microsoft.com/)
-- [Stack Overflow](https://stackoverflow.com/)
 
 ### Coding Practice and Challenges
 
@@ -285,12 +285,42 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 - [Project Euler](https://projecteuler.net/)
 - [CodeWars](https://www.codewars.com/)
 - [Exercism](https://exercism.io/)
-
+- [Stack Overflow](https://stackoverflow.com/)
+  
 ### Official Documentation and Tutorials
 
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [W3Schools](https://www.w3schools.com/)
 - [DevDocs](https://devdocs.io/)
+
+## Free Tier Offers
+
+- **Amazon Web Services (AWS)**
+  - [AWS Free Tier](https://aws.amazon.com/free/)
+- **Microsoft Azure**
+  - [Microsoft Azure Free Account](https://azure.microsoft.com/en-us/free/)
+- **Google Cloud Platform**
+  - [Google Cloud Free Tier](https://cloud.google.com/free)
+- **IBM Cloud**
+  - [IBM Cloud Free Tier](https://www.ibm.com/cloud/free)
+- **Heroku**
+  - [Heroku Free Tier](https://www.heroku.com/free)
+- **Firebase**
+  - [Firebase Spark Plan](https://firebase.google.com/pricing)
+- **Vercel**
+  - [Vercel Free Plan](https://vercel.com/pricing)
+- **Netlify**
+  - [Netlify Free Plan](https://www.netlify.com/pricing)
+- **MongoDB Atlas**
+  - [MongoDB Atlas Free Tier](https://www.mongodb.com/cloud/atlas)
+
+- **Redis Labs**
+  - [Redis Labs Free Tier](https://redislabs.com/redis-enterprise-cloud/try-free/)
+- **Auth0**
+  - [Auth0 Free Tier](https://auth0.com/pricing)
+- **Twilio**
+  - [Twilio Free Tier](https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account)
+
 
 ## 2-Year Time Frame Roadmap
 
