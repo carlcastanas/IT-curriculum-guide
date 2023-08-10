@@ -100,7 +100,7 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 - [Codecademy](https://www.codecademy.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Khan Academy](https://www.khanacademy.org/)
-- [Roadmap.SH](https://roadmap.sh/)
+- [Roadmap.sh](https://roadmap.sh/)
 
 ### Coding Practice and Challenges
 
