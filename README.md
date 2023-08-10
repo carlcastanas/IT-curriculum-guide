@@ -1,6 +1,8 @@
-# IT Curriculum and Training Guide
-
-Welcome to the **IT Curriculum and Training Guide**! This document outlines a comprehensive curriculum for aspiring IT professionals, along with recommended resources, possible job roles, and a suggested time frame for each subject of study.
+<div align="center">
+  <img src="https://i.imgur.com/iAQ0Rcq.png" alt="iCreatechs Logo">
+  <h1>IT Curriculum and Training Guide</h1>
+  <p>Welcome to the IT Curriculum and Training Guide! This document outlines a comprehensive curriculum for aspiring IT professionals, along with recommended resources, possible job roles, and a suggested time frame for each subject of study.</p>
+</div>
 
 ## Curriculum Overview
 
@@ -176,7 +178,7 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
      git commit -m "Add new resources for Web Development"
      ```
    - Push your changes to your forked repository on GitHub:
-   
+
      ```shell
      git push origin add-new-resources
      ```
