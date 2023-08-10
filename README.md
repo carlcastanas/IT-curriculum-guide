@@ -46,19 +46,19 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
     - [TypeORM](https://typeorm.io/)
     - [SQLAlchemy](https://www.sqlalchemy.org/)
     - [Drizzle](https://github.com/drizzle-db/drizzle)
-- [Networking Basics](#networking-basics)
+- Networking Basics
 	- [TCP/IP Illustrated](https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0321336313)
 	- [Networking Basics - Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html)
 	- [SubnettingPractice](http://www.subnettingpractice.com/)
 	- [Wireshark](https://www.wireshark.org/) for network analysis
 	- [Cybrary - Networking](https://www.cybrary.it/catalog/cybrary/courses/networking-fundamentals/)
-- [Cybersecurity](#cybersecurity)
+- Cybersecurity
 	- Types of cyber threats: [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 	- [Cryptography and Network Security](https://www.amazon.com/Cryptography-Network-Security-Principles-Practice/dp/0134444280)
 	- [Metasploit Unleashed](https://www.metasploitunleashed.com/)
 	- [HackerRank - Cybersecurity Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-cybersecurity)
 	- [Cyber Security Courses on Coursera](https://www.coursera.org/browse/information-technology/cyber-security)
-- [Cloud Computing](#cloud-computing)
+- Cloud Computing
 	- Introduction to cloud services: [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/), [GCP](https://cloud.google.com/)
 	- Cloud deployment models: [IaaS, PaaS, SaaS](https://www.redhat.com/en/topics/cloud-computing/cloud-service-models)
 	- Virtualization and containerization: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/)
