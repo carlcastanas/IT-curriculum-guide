@@ -51,12 +51,25 @@ Welcome to the IT Curriculum and Training Guide! This document outlines a compre
 - [Azure Learn](https://docs.microsoft.com/en-us/learn/azure/)
 
 ## Possible Job Roles
-- Web Developer
-- Software Engineer
-- Database Administrator
-- Network Administrator
-- Cybersecurity Analyst
-- Cloud Solutions Architect
+
+| Job Role                   | Average Salary (PHP) | US Average (PHP) | AUS Average (PHP) | PH Average (PHP) |
+|----------------------------|----------------------|------------------|-------------------|------------------|
+| Software Developer         | ₱1,200,000           | ₱5,720,000      | ₱4,110,000       | ₱500,000        |
+| Web Developer              | ₱900,000             | ₱4,285,000      | ₱2,860,000       | ₱400,000        |
+| Database Administrator     | ₱1,000,000           | ₱4,750,000      | ₱3,570,000       | ₱600,000        |
+| Network Engineer           | ₱950,000             | ₱4,515,000      | ₱3,010,000       | ₱500,000        |
+| Cybersecurity Analyst     | ₱1,300,000           | ₱6,185,000      | ₱3,935,000       | ₱700,000        |
+| Cloud Solutions Architect | ₱1,500,000           | ₱7,125,000      | ₱5,775,000       | ₱800,000        |
+| Data Scientist             | ₱1,700,000           | ₱8,065,000      | ₱5,500,000       | ₱900,000        |
+| AI/Machine Learning Engineer | ₱1,600,000        | ₱7,600,000      | ₱4,950,000       | ₱850,000        |
+| DevOps Engineer           | ₱1,300,000           | ₱6,185,000      | ₱4,150,000       | ₱700,000        |
+| UX/UI Designer            | ₱1,000,000           | ₱4,750,000      | ₱3,800,000       | ₱600,000        |
+| IT Project Manager        | ₱1,400,000           | ₱6,650,000      | ₱5,100,000       | ₱750,000        |
+| Network Administrator     | ₱950,000             | ₱4,515,000      | ₱3,620,000       | ₱500,000        |
+| Software Tester           | ₱800,000             | ₱3,800,000      | ₱3,080,000       | ₱450,000        |
+| Technical Support Engineer | ₱700,000           | ₱3,325,000      | ₱2,750,000       | ₱400,000        |
+
+**Note:** Salaries are approximate averages and can vary based on experience, location, and other factors.
 
 ## Training Resources
 
