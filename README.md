@@ -142,16 +142,19 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
    - Open a terminal on your computer.
    - Navigate to a directory where you want to store the project.
    - Clone your forked repository by running the following command:
+
      ```shell
      git clone https://github.com/carlcastanas/it-curriculum-guide.git
      ```
 
 3. **Create a New Branch:**
    - Move into the cloned repository's directory:
+
      ```shell
      cd it-curriculum-guide
      ```
    - Create a new branch for your contributions. Choose a descriptive branch name that reflects the changes you'll make:
+
      ```shell
      git checkout -b add-new-resources
      ```
@@ -163,14 +166,17 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
 5. **Commit and Push Your Changes:**
    - Save the `README.md` file.
    - Add your changes to the staging area:
+
      ```shell
      git add README.md
      ```
    - Commit your changes with a clear and concise commit message:
+
      ```shell
      git commit -m "Add new resources for Web Development"
      ```
    - Push your changes to your forked repository on GitHub:
+   
      ```shell
      git push origin add-new-resources
      ```
