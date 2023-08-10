@@ -86,42 +86,16 @@ Welcome to the IT Curriculum and Training Guide! This document outlines a compre
 
 ## 2-Year Time Frame Roadmap
 
-### Year 1
-
-#### First Quarter
-- Programming Fundamentals
-- Web Development (HTML, CSS, JavaScript)
-
-#### Second Quarter
-- Web Development (Frontend frameworks)
-- Databases (Relational databases and SQL)
-
-#### Third Quarter
-- Networking Basics
-- Databases (Database design and normalization)
-
-#### Fourth Quarter
-- Cybersecurity (Introduction)
-- Cloud Computing (Introduction)
-
-### Year 2
-
-#### First Quarter
-- Web Development (Backend technologies)
-- Cybersecurity (Cryptography and Network Security)
-
-#### Second Quarter
-- Networking Basics (IP addressing, subnetting)
-- Cloud Computing (Virtualization and containerization)
-
-#### Third Quarter
-- Cybersecurity (Ethical hacking, penetration testing)
-- Cloud Computing (Cloud services and deployment models)
-
-#### Fourth Quarter
-- Finalize any remaining subjects
-- Enhance skills in specific areas of interest
-- Continuous learning and project building
+| Year | Quarter | Subjects to Cover                                          |
+|------|---------|------------------------------------------------------------|
+| 1    | Q1      | Programming Fundamentals<br>Web Development (HTML, CSS, JavaScript) |
+|      | Q2      | Web Development (Frontend frameworks)<br>Databases (Relational databases and SQL) |
+|      | Q3      | Networking Basics<br>Databases (Database design and normalization) |
+|      | Q4      | Cybersecurity (Introduction)<br>Cloud Computing (Introduction) |
+| 2    | Q1      | Web Development (Backend technologies)<br>Cybersecurity (Cryptography and Network Security) |
+|      | Q2      | Networking Basics (IP addressing, subnetting)<br>Cloud Computing (Virtualization and containerization) |
+|      | Q3      | Cybersecurity (Ethical hacking, penetration testing)<br>Cloud Computing (Cloud services and deployment models) |
+|      | Q4      | Finalize any remaining subjects<br>Enhance skills in specific areas of interest<br>Continuous learning and project building |
 
 ## Tips for Improving IT Skills
 
