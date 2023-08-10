@@ -100,6 +100,7 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 - [Codecademy](https://www.codecademy.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Khan Academy](https://www.khanacademy.org/)
+- [Roadmap.SH](https://roadmap.sh/)
 
 ### Coding Practice and Challenges
 
@@ -107,6 +108,7 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeSignal](https://codesignal.com/)
 - [Project Euler](https://projecteuler.net/)
+- [CodeWars](https://www.codewars.com/)
 
 ### Documentation and Tutorials
 
