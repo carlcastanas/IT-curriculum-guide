@@ -16,21 +16,21 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 
 ## Overview
 
-- [Programming Fundamentals](#programming-fundamentals)
-	- General Programming Languagess
-	- Courses You Need to Try
-	- Concepts You Need to Know
-	- Roadmaps For Your Career
-  - Git: Version Control Systems 
-- [Web Development](#web-development)
-	- Frontend Complete Guide
-	- Backend Complete Guide
-	- Fullstack Complete Guide
-- [Databases Management](#databases)
-	- Relational Databases
-  - NoSQL Database
-  - Lightweight Databases
-  - Database Toolkits
+- Programming Fundamentals
+	- [General Programming Languagess](#general-programming-languagess)
+	- [Courses You Need to Try]
+	- [Concepts You Need to Know]
+	- [Roadmaps For Your Career]
+  - [Git: Version Control Systems ]
+- Web Development
+	- [Frontend Complete Guide]
+	- [Backend Complete Guide]
+	- [Fullstack Complete Guide]
+- Databases Management
+	- [Relational Databases]
+	- [NoSQL Database]
+	- [Lightweight Databases]
+	- [Database Toolkits]
 - [Networking Basics](#networking-basics)
 	- [TCP/IP Illustrated](https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0321336313)
 	- [Networking Basics - Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html)
@@ -49,6 +49,32 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 	- Virtualization and containerization: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/)
 	- [AWS Training and Certification](https://aws.amazon.com/training/)
 	- [Azure Learn](https://docs.microsoft.com/en-us/learn/azure/)
+
+## General Programming Languages
+Programming languages are the heart of software development. Each language has its strengths and applications. Here's a quick overview:
+
+- **Python**: A versatile language known for its readability and simplicity. It's great for beginners and has a wide range of applications, from web development to data science. [Learn more](https://python.org)
+
+- **JavaScript**: The language of the web, used for building interactive websites and web applications. It's also used for server-side development with Node.js. [Learn more](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+- **Java**: A versatile and widely-used language for building robust applications. It's known for its portability and is commonly used in enterprise environments. [Learn more](https://www.java.com)
+
+- **C++**: An extension of the C language, C++ is used for system-level programming, game development, and high-performance applications. [Learn more](https://isocpp.org)
+
+- **Ruby**: A dynamic, elegant language often used for web development. It's appreciated for its clean syntax and developer-friendly environment. [Learn more](https://www.ruby-lang.org)
+
+- **Swift**: Developed by Apple, Swift is used for creating iOS, macOS, watchOS, and tvOS applications. It's known for its speed and safety features. [Learn more](https://swift.org)
+
+- **Rust**: A systems programming language that emphasizes safety and performance. It's gaining popularity for its modern features and memory safety. [Learn more](https://www.rust-lang.org)
+
+> **Remember!** Each language has its unique strengths, so pick one that matches your goals and interests. Happy coding!
+
+---
+
+## Courses You Need To Try
+- [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
+- [Coursera - Programming for Everybody (Python)](https://www.coursera.org/specializations/python)
+- [edX - Introduction to Java Programming](https://www.edx.org/course/introduction-to-java-programming)
 
 ## Possible Job Roles
 
