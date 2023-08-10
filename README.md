@@ -113,4 +113,8 @@ Welcome to the IT Curriculum and Training Guide! This document outlines a compre
 
 - **Continuous Learning:** Set aside time for continuous learning, even after you've covered the core curriculum.
 
-Feel free to tailor this curriculum to your interests and goals. The IT field is constantly evolving, so stay curious, keep learning
+- **Company's Facebook Page:** Follow our [iCreatechs Facebook page](https://www.facebook.com/icreatechs) for additional IT tips and updates.
+
+- **Collaboration on Discord:** Join our [Discord group](https://discord.com/invite/44JBBe62fx) with 17k members to collaborate and code together.
+
+- **Facebook Group Community:** Become a part of our [iCreatechs Community Facebook group](https://www.facebook.com/groups/icreatechs.community) with 90k members that can help you improve your coding skills together.
