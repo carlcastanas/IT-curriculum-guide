@@ -7,8 +7,13 @@
 [![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/network/members)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/icreatechs-aus)](https://www.linkedin.com/company/icreatechs-aus)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.IT-curriculum-guide)
+<br/>
+[![GitHub Student Pack](https://img.shields.io/badge/GitHub_Student_Pack-Claim_Now-37a779?style=for-the-badge)](https://education.github.com/benefits?type=student)
+
 
 </div>
+
+
 </div>
 
 # Summary
