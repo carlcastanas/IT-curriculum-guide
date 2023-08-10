@@ -3,6 +3,12 @@
 Welcome to the IT Curriculum and Training Guide! This document outlines a comprehensive curriculum for aspiring IT professionals, along with recommended resources, possible job roles, and a suggested time frame for each subject of study.
 
 ## Curriculum Overview
+- [Programming Fundamentals](#programming-fundamentals)
+- [Web Development](#web-development)
+- [Databases](#databases)
+- [Networking Basics](#networking-basics)
+- [Cybersecurity](#cybersecurity)
+- [Cloud Computing](#cloud-computing)
 
 ### Programming Fundamentals
 - Languages: [Python](https://www.python.org/), [Java](https://www.java.com/), [C++](http://www.cplusplus.com/)
