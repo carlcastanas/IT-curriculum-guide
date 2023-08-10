@@ -25,7 +25,7 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 
 ## Programming Fundamentals
 
-- Languages: [Python](https://www.python.org/), [Java](https://www.java.com/), [C++](http://www.cplusplus.com/)
+- Languages: [Python](https://www.python.org/), [Java](https://www.java.com/), [C++](http://www.cplusplus.com/), [Go](https://golang.org/)
 - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
 - [Coursera - Programming for Everybody (Python)](https://www.coursera.org/specializations/python)
 - [edX - Introduction to Java Programming](https://www.edx.org/course/introduction-to-java-programming)
@@ -34,8 +34,9 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 
 - [HTML and CSS fundamentals](https://www.w3schools.com/html/), [CSS-Tricks](https://css-tricks.com/)
 - [JavaScript MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- Frontend frameworks: [React](https://reactjs.org/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/)
-- Backend technologies: [Node.js](https://nodejs.org/), [Django](https://www.djangoproject.com/), [Ruby on Rails](https://rubyonrails.org/)
+- Frontend frameworks: [React](https://reactjs.org/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/), [Svelte](https://svelte.dev/), [Solid](https://www.solidjs.com/)
+- State Management: React ([Redux](https://redux.js.org/), [Redux Toolkit](https://redux-toolkit.js.org/), [Zustand](https://github.com/pmndrs/zustand), [Recoil](https://recoiljs.org/)), Vue ([Pinia](https://pinia.vuejs.org/))
+- Backend technologies: [Node.js](https://nodejs.org/), [Django](https://www.djangoproject.com/), [Ruby on Rails](https://rubyonrails.org/), [Golang Fiber](https://github.com/gofiber/fiber)
 - [FreeCodeCamp](https://www.freecodecamp.org/): Hands-on web development projects
 
 ## Databases
@@ -60,6 +61,8 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 - [Metasploit Unleashed](https://www.metasploitunleashed.com/)
 - [HackerRank - Cybersecurity Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-cybersecurity)
 - [Cyber Security Courses on Coursera](https://www.coursera.org/browse/information-technology/cyber-security)
+- Popular tools: [Metasploit](https://www.metasploit.com/), [Nmap](https://nmap.org/), [Nessus](https://nessus.org/), [Burp Suite](https://portswigger.net/burp/), [Wireshark](https://www.wireshark.org/)
+- Popular OS for cybersecurity: [Kali Linux](https://www.kali.org/), [Parrot OS](https://www.parrotsec.org/)
 
 ## Cloud Computing
 
