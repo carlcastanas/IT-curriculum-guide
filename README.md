@@ -26,22 +26,22 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 	- [Frontend Guide](#frontend-mini-guide)
 	- [Backend Guide](#backend-mini-guide)
 	- [Fullstack Guide](#fullstack-mini-guide)
-- **Databases Management**
-  - **Relational Databases**
+- Databases Management
+  - Relational Databases
     - [PostgreSQL](https://www.postgresql.org/)
     - [MySQL](https://www.mysql.com/)
-  - **NoSQL Databases**
+  - NoSQL Databases
     - [MongoDB](https://www.mongodb.com/)
     - [Redis](https://redis.io/)
-  - **Lightweight Databases**
+  - Lightweight Databases
     - [SQLite](https://www.sqlite.org/)
     - [MariaDB](https://mariadb.org/)
     - [CouchDB](https://couchdb.apache.org/)
-  - **ORM (Object-Relational Mapping)**
+  - ORM (Object-Relational Mapping)
     - [Sequelize](https://sequelize.org/)
     - [Hibernate](https://hibernate.org/)
     - [Entity Framework](https://docs.microsoft.com/en-us/ef/)
-  - **Database Toolkits**
+  - Database Toolkits
     - [Prisma](https://www.prisma.io/)
     - [TypeORM](https://typeorm.io/)
     - [SQLAlchemy](https://www.sqlalchemy.org/)
@@ -271,7 +271,11 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 - [Codecademy](https://www.codecademy.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Khan Academy](https://www.khanacademy.org/)
-- [Roadmap.sh](https://roadmap.sh/)
+- [LinkedIn Learning](https://www.linkedin.com/learning/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [Google Developers](https://developers.google.com/learn)
+- [Microsoft Learn](https://learn.microsoft.com/)
+- [Stack Overflow](https://stackoverflow.com/)
 
 ### Coding Practice and Challenges
 
@@ -280,8 +284,9 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 - [CodeSignal](https://codesignal.com/)
 - [Project Euler](https://projecteuler.net/)
 - [CodeWars](https://www.codewars.com/)
+- [Exercism](https://exercism.io/)
 
-### Documentation and Tutorials
+### Official Documentation and Tutorials
 
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [W3Schools](https://www.w3schools.com/)
