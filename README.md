@@ -17,20 +17,35 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 ## Overview
 
 - Programming Fundamentals
-	- [General Programming Languagess](#general-programming-languagess)
-	- [Courses You Need to Try]
-	- [Concepts You Need to Know]
-	- [Roadmaps For Your Career]
-  - [Git: Version Control Systems ]
+	- [General Programming Languagess](#general-programming-languages)
+	- [Courses You Need to Try](#free-courses-you-need-to-try)
+	- [Concepts You Need to Know](https://www.educative.io/answers/what-are-the-basic-fundamental-concepts-of-programming)
+	- [Roadmaps For Your Career](https://roadmap.sh)
+	- [Git: Version Control Systems ](https://learn.microsoft.com/en-us/training/modules/intro-to-git/)
 - Web Development
-	- [Frontend Complete Guide]
-	- [Backend Complete Guide]
-	- [Fullstack Complete Guide]
-- Databases Management
-	- [Relational Databases]
-	- [NoSQL Database]
-	- [Lightweight Databases]
-	- [Database Toolkits]
+	- [Frontend Guide](#frontend-mini-guide)
+	- [Backend Guide](#backend-mini-guide)
+	- [Fullstack Guide](#fullstack-mini-guide)
+- **Databases Management**
+  - **Relational Databases**
+    - [PostgreSQL](https://www.postgresql.org/)
+    - [MySQL](https://www.mysql.com/)
+  - **NoSQL Databases**
+    - [MongoDB](https://www.mongodb.com/)
+    - [Redis](https://redis.io/)
+  - **Lightweight Databases**
+    - [SQLite](https://www.sqlite.org/)
+    - [MariaDB](https://mariadb.org/)
+    - [CouchDB](https://couchdb.apache.org/)
+  - **ORM (Object-Relational Mapping)**
+    - [Sequelize](https://sequelize.org/)
+    - [Hibernate](https://hibernate.org/)
+    - [Entity Framework](https://docs.microsoft.com/en-us/ef/)
+  - **Database Toolkits**
+    - [Prisma](https://www.prisma.io/)
+    - [TypeORM](https://typeorm.io/)
+    - [SQLAlchemy](https://www.sqlalchemy.org/)
+    - [Drizzle](https://github.com/drizzle-db/drizzle)
 - [Networking Basics](#networking-basics)
 	- [TCP/IP Illustrated](https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0321336313)
 	- [Networking Basics - Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html)
@@ -49,6 +64,8 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 	- Virtualization and containerization: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/)
 	- [AWS Training and Certification](https://aws.amazon.com/training/)
 	- [Azure Learn](https://docs.microsoft.com/en-us/learn/azure/)
+
+---
 
 ## General Programming Languages
 Programming languages are the heart of software development. Each language has its strengths and applications. Here's a quick overview:
@@ -71,10 +88,157 @@ Programming languages are the heart of software development. Each language has i
 
 ---
 
-## Courses You Need To Try
+## Free Courses You Need To Try
 - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
 - [Coursera - Programming for Everybody (Python)](https://www.coursera.org/specializations/python)
 - [edX - Introduction to Java Programming](https://www.edx.org/course/introduction-to-java-programming)
+- [Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
+- [Introduction to Programming with Scratch](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch?delta=0)
+- [Introduction to Programming with Python](https://edx.org/course/cs50s-introduction-to-programming-with-python)
+- [Understanding Technology](https://pll.harvard.edu/course/cs50s-understanding-technology-0?delta=0)
+- [Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0)
+- [Introduction to Game Development](https://pll.harvard.edu/course/cs50s-introduction-game-development?delta=0)
+- [CS50's Computer Science for Business Professionals](https://pll.harvard.edu/course/cs50s-computer-science-business-professionals-0?delta=0)
+- [Mobile App Development with React Native](https://pll.harvard.edu/course/cs50s-mobile-app-development-react-native?delta=0)
+- [Introduction to Data Science with Python](https://pll.harvard.edu/course/introduction-data-science-python?delta=0)
+
+---
+
+## Frontend Mini Guide
+
+- **Basics**
+  - [HTML](https://www.w3schools.com/html/)
+    - Tags
+    - SEO
+    - Accessibility
+  - [CSS](https://www.w3schools.com/css/)
+    - Layouts
+    - Responsiveness
+  - [JavaScript](https://www.w3schools.com/js/)
+    - Fetch API/Ajax (XHR)
+    - Handling Forms
+
+- **Intermediate**
+  - **JS Frameworks**
+    - [React](https://reactjs.org/)
+    - [Vue](https://vuejs.org/)
+    - [Angular](https://angular.io/)
+    - [Svelte](https://svelte.dev/)
+    - [Astro](https://astro.build/)
+  - **CSS Frameworks**
+    - [SASS](https://sass-lang.com/), [PostCSS](https://postcss.org/)
+    - [Tailwind CSS](https://tailwindcss.com/)
+    - [Bootstrap](https://getbootstrap.com/)
+    - [Chakra UI](https://chakra-ui.com/)
+    - [Material UI](https://mui.com/)
+  - **Other Web Frameworks**
+    - [Django](https://www.djangoproject.com/)
+    - [Laravel](https://laravel.com/)
+    - [Ruby on Rails](https://rubyonrails.org/)
+  - **Cross-Platform Applications**
+	  - Android, iOS
+	    - [React Native](https://reactnative.dev/)
+	    - [Flutter](https://flutter.dev/)
+	    - [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
+	  - Windows, macOS, Linux
+	    - [Electron](https://www.electronjs.org/)
+	    - [Qt](https://www.qt.io/)
+	    - [Avalonia](https://avaloniaui.net/)
+	    - [JavaFX](https://openjfx.io/)
+	    - [NW.js](https://nwjs.io/)
+	    - [Proton Native](https://proton-native.js.org/)
+	    - [Sciter](https://sciter.com/)
+
+
+- **Advanced**
+  - **Frontend Cloud**
+    - [Netlify](https://www.netlify.com/)
+    - [Vercel](https://vercel.com/)
+    - [Cloudflare](https://www.cloudflare.com/)
+    - [AWS](https://aws.amazon.com/)
+    - [Azure](https://azure.microsoft.com/)
+  - **Server Side Rendering**
+  - **Static Site Generation**
+  - **Using Devtools**
+
+---
+
+## Backend Mini Guide
+
+- **Basics**
+  - [Programming Languages](https://www.w3schools.com/)
+    - Python
+    - Ruby
+    - Node.js (JavaScript)
+    - Java
+
+- **Web Servers and APIs**
+  - [HTTP Basics](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+  - [RESTful APIs](https://restfulapi.net/)
+  - [GraphQL](https://graphql.org/)
+  
+- **Databases**
+  - [SQL](https://www.w3schools.com/sql/)
+    - MySQL
+    - PostgreSQL
+    - SQLite
+  - [NoSQL](https://www.mongodb.com/nosql-explained)
+    - MongoDB
+    - Redis
+    - Cassandra
+
+- **Backend Frameworks**
+  - [Express.js (Node.js)](https://expressjs.com/)
+  - [Ruby on Rails](https://rubyonrails.org/)
+  - [Django (Python)](https://www.djangoproject.com/)
+  - [Flask (Python)](https://flask.palletsprojects.com/)
+
+- **Authentication and Authorization**
+  - [OAuth 2.0](https://oauth.net/2/)
+  - [JWT](https://jwt.io/)
+
+- **Advanced**
+  - **Backend Cloud Services**
+    - [Supabase](https://supabase.io/)
+    - [Firebase](https://firebase.google.com/)
+    - [Pocketbase](https://www.pocketbase.io/)
+  - **Server Deployment**
+    - [Docker](https://www.docker.com/)
+    - [Kubernetes](https://kubernetes.io/)
+  - **Serverless Architecture**
+    - [AWS Lambda](https://aws.amazon.com/lambda/)
+    - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+  - **API Security**
+  - **Caching Strategies**
+ 
+---
+
+## Fullstack Mini Guide
+
+After mastering the frontend and backend basics, it's time to combine them! Start creating fullstack applications that seamlessly blend user experience with server-side logic. 
+
+### Project-Based Learning FTW
+
+PBL is a dynamic approach to mastering new skills. Instead of just reading about concepts, you learn by rolling up your sleeves and building projects. It's like diving into the real deal straight away. By creating practical applications, you not only gain hands-on experience but also solidify your understanding of concepts in a more engaging way. So, it's a win-win situation where you learn and conquer at the same time
+
+### Side Project Ideas
+
+- **E-commerce Platform**: Build a virtual shop with product listings, shopping cart, and secure checkout.
+- **Social Media App**: Create a platform for users to connect, share posts, and engage.
+- **Task Management Tool**: Craft a robust app to organize tasks, deadlines, and priorities.
+- **Real-time Chat Application**: Develop a chat app where users can exchange messages instantly.
+- **Portfolio Website**: Showcase your skills with an impressive portfolio site.
+
+### Resources for Your Fullstack Journey
+
+- [FreeCodeCamp](https://www.freecodecamp.org/): Offers in-depth fullstack curriculum.
+- [The Odin Project](https://www.theodinproject.com/): A fullstack learning path with hands-on projects.
+- [Fullstackopen](https://fullstackopen.com/): University-level fullstack course with React, Node.js, and more.
+- [Project Ideas from GitHub](https://github.com/karan/Projects): A collection of coding project ideas to challenge yourself.
+
+---
+
 
 ## Possible Job Roles
 
