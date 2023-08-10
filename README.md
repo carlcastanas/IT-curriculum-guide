@@ -1,8 +1,8 @@
 <div align="center">
   <img src="./image.gif" alt="iCreatechs Logo">
-  <h2>IT Curriculum and Training Guide</h2>
+  <h3>Icreatechs IT Curriculum and Training Guide</h3>
   <div align="center">
-  
+
 [![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/network/members)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/carlcastanas/)
