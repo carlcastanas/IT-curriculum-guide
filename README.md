@@ -130,7 +130,7 @@ Welcome to the IT Curriculum and Training Guide! This document outlines a compre
 We welcome contributions to improve and expand this IT Curriculum and Training Guide. Your contributions can help make this resource even more valuable for aspiring IT professionals. Here's a step-by-step guide on how you can contribute:
 
 1. **Fork the Repository:**
-   - Go to the [IT Curriculum and Training Guide repository](https://github.com/yourusername/it-curriculum-guide).
+   - Go to the [IT Curriculum and Training Guide repository](https://github.com/carlcastanas/it-curriculum-guide).
    - Click the "Fork" button at the top right corner of the page. This will create a copy of the repository in your GitHub account.
 
 2. **Clone Your Fork:**
@@ -138,7 +138,7 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
    - Navigate to a directory where you want to store the project.
    - Clone your forked repository by running the following command:
      ```shell
-     git clone https://github.com/yourusername/it-curriculum-guide.git
+     git clone https://github.com/carlcastanas/it-curriculum-guide.git
      ```
 
 3. **Create a New Branch:**
