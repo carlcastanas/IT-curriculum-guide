@@ -11,6 +11,9 @@
 </div>
 </div>
 
+## Summary
+Embarking on a journey in the field of Information Technology (IT) can be both exciting and daunting. This guide is designed to provide aspiring IT professionals with a structured curriculum, abundant resources, and valuable insights into various job roles within the IT landscape. Whether you're a newcomer or aiming to enhance your skills, this guide serves as a roadmap to success.
+
 ## Curriculum Overview
 
 - [Programming Fundamentals](#programming-fundamentals)
