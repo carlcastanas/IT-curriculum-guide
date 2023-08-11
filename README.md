@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/img/image.gif" alt="iCreatechs Logo">
+  <img src="./assets/img/image.gif" alt="Icreatechs Logo">
   <h3>Icreatechs IT Curriculum and Training Guide</h3>
   <div align="center">
 
@@ -41,6 +41,7 @@ Starting a career in Information Technology (IT) may be both thrilling and intim
     - [Coding Practice and Challenges](#coding-practice-and-challenges)
     - [Documentation and Tutorials](#documentation-and-tutorials)
   - [2-Year Time Frame Roadmap](#2-year-time-frame-roadmap)
+  - [Tips for building a resume](#Resume-Writing-Guide)
   - [Tips for Improving IT Skills](#tips-for-improving-it-skills)
   - [How to Contribute](#how-to-contribute)
 
@@ -333,6 +334,96 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 
 **Note:** The provided resources are just starting points. Feel free to explore additional online courses, tutorials, and documentation.
 
+## Resume Writing Guide
+
+## Introduction
+
+Creating a professional and effective resume is crucial when applying for tech-related jobs. Your resume is often the first impression you make on potential employers, so it's essential to present your skills, experience, and qualifications in a clear and compelling way. This README file provides you with guidelines, tips, and a sample resume tailored for the tech industry.
+
+## Table of Contents
+
+1. [Getting Started](#getting-started)
+2. [Resume Sections](#resume-sections)
+3. [Formatting Tips](#formatting-tips)
+4. [Content Tips](#content-tips)
+5. [Sample Tech Resume](#sample-tech-resume)
+6. [Additional Resources](#additional-resources)
+
+## Getting Started
+
+Before you begin, gather all the necessary information about your education, work experience, tech skills, and achievements. Having this information on hand will make the resume writing process smoother.
+
+## Resume Sections
+
+A well-structured tech resume typically includes the following sections:
+
+### 1. Contact Information
+
+Include your full name, phone number, email address, and optionally your LinkedIn profile.
+
+### 2. Summary or Objective
+
+Write a concise statement that highlights your expertise, tech skills, and what you can bring to the tech industry.
+
+### 3. Education
+
+List your educational background, including tech-related degrees earned, institutions attended, graduation dates, and relevant honors.
+
+### 4. Work Experience
+
+Detail your relevant tech work history in reverse chronological order. Include your job title, company name, employment dates, and a bullet-point list of your tech responsibilities and accomplishments.
+
+### 5. Tech Skills
+
+Showcase your technical skills that are relevant to the tech job you're applying for. This can include programming languages, software, frameworks, and tools.
+
+### 6. Projects
+
+Highlight tech projects you've worked on, including personal projects, open-source contributions, and relevant team projects.
+
+### 7. Certifications
+
+List any tech certifications or training you've completed, such as programming certifications or cloud computing certifications.
+
+### 8. Activities and Interests
+
+Include tech-related hobbies or activities that demonstrate your passion for technology and innovation.
+
+## Formatting Tips
+
+- **Consistency**: Maintain a consistent format for headings, bullet points, fonts, and spacing throughout your tech resume.
+
+- **Readability**: Use a clean, professional font and keep the font size between 10 and 12 points for body text.
+
+- **Bullet Points**: Use bullet points to highlight your tech responsibilities, achievements, and project details.
+
+- **Length**: Aim for a one-page tech resume for less experienced candidates and a maximum of two pages for more experienced tech professionals.
+
+- **File Format**: Save your tech resume as a PDF to ensure it retains its formatting across different devices.
+
+## Content Tips
+
+- **Tailor for the Tech Job**: Customize your tech resume for each job application by emphasizing the tech skills and experiences most relevant to the specific tech role.
+
+- **Quantify Achievements**: Use numbers and data to quantify your tech accomplishments whenever possible. This adds credibility to your skills.
+
+- **Action Words**: Start bullet points with tech-related action verbs to make your responsibilities and accomplishments more impactful.
+
+- **Be Honest**: Be truthful in your tech resume. Any false tech information can have serious consequences.
+
+## Sample Tech Resume
+
+Here's a sample tech resume that you can use as a reference:
+[Sample Tech Resume](https://cdn-careerservices.fas.harvard.edu/wp-content/uploads/sites/161/2023/08/College-CS-Resume-Example.pdf)
+
+## Additional Resources
+
+- [Tech Resume Writing Tips by Dice](https://www.dice.com/tech-candidate/how-to-write-a-resume)
+- [GitHub's Guide to an Awesome GitHub Profile](https://github.com/features/actions)
+- [Coursera's Computer Science Courses](https://www.coursera.org/browse/computer-science)
+
+Remember, your tech resume should showcase your technical prowess and enthusiasm for the field. Regularly update it to reflect your latest projects and tech skills. Good luck with your tech job search!
+
 ## Tips for Enhancing IT Skills
 
 - **Consistent Practice:** Regularly practice coding, problem-solving, and hands-on projects to reinforce your skills.
@@ -342,9 +433,9 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 - **Online Communities:** Participate in tech discussions on platforms like [Stack Overflow](https://stackoverflow.com/) and [Reddit](https://www.reddit.com/r/learnprogramming/).
 - **Stay Curious:** Explore emerging technologies and trends to stay up-to-date in the ever-evolving IT landscape.
 - **Continuous Learning:** Dedicate time to ongoing learning, even beyond the core curriculum.
-- **Company's Facebook Page:** Follow our [iCreatechs Facebook page](https://www.facebook.com/icreatechs) for additional IT insights and updates.
+- **Company's Facebook Page:** Follow our [Icreatechs Facebook page](https://www.facebook.com/icreatechs) for additional IT insights and updates.
 - **Collaboration on Discord:** Join our [Discord group](https://discord.com/invite/44JBBe62fx) with 17k members to code and collaborate together.
-- **Facebook Group Community:** Be part of our [iCreatechs Community Facebook group](https://www.facebook.com/groups/icreatechs.community) with 90k members to collectively enhance coding skills.
+- **Facebook Group Community:** Be part of our [Icreatechs Community Facebook group](https://www.facebook.com/groups/icreatechs.community) with 90k members to collectively enhance coding skills.
 
 ## How to Contribute
 
