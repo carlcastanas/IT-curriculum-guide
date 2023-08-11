@@ -18,12 +18,31 @@ Starting a career in Information Technology (IT) may be both thrilling and intim
 
 ## Overview
 
-- [Programming Fundamentals](#programming-fundamentals)
-- [Web Development](#web-development)
-- [Databases](#databases)
-- [Networking Basics](#networking-basics)
-- [Cybersecurity](#cybersecurity)
-- [Cloud Computing](#cloud-computing)
+- [Summary](#summary)
+  - [Overview](#overview)
+  - [Programming Fundamentals](#programming-fundamentals)
+  - [Web Development](#web-development)
+  - [Mobile Development](#mobile-development)
+  - [Databases](#databases)
+  - [Networking Basics](#networking-basics)
+  - [Cybersecurity](#cybersecurity)
+  - [Cloud Computing](#cloud-computing)
+  - [General Programming Languages](#general-programming-languages)
+  - [Free Courses You Need To Try](#free-courses-you-need-to-try)
+  - [Frontend Mini Guide](#frontend-mini-guide)
+  - [Backend Mini Guide](#backend-mini-guide)
+  - [Fullstack Mini Guide](#fullstack-mini-guide)
+    - [Project-Based Learning FTW](#project-based-learning-ftw)
+    - [Side Project Ideas](#side-project-ideas)
+    - [Resources for Your Fullstack Journey](#resources-for-your-fullstack-journey)
+  - [Possible Job Roles](#possible-job-roles)
+  - [Training Resources](#training-resources)
+    - [Online Learning Platforms](#online-learning-platforms)
+    - [Coding Practice and Challenges](#coding-practice-and-challenges)
+    - [Documentation and Tutorials](#documentation-and-tutorials)
+  - [2-Year Time Frame Roadmap](#2-year-time-frame-roadmap)
+  - [Tips for Improving IT Skills](#tips-for-improving-it-skills)
+  - [How to Contribute](#how-to-contribute)
 
 ## Programming Fundamentals
 
@@ -41,12 +60,17 @@ Starting a career in Information Technology (IT) may be both thrilling and intim
 - Backend technologies: [Node.js](https://nodejs.org/), [Django](https://www.djangoproject.com/), [Ruby on Rails](https://rubyonrails.org/)
 - [FreeCodeCamp](https://www.freecodecamp.org/): Hands-on web development projects
 
+## Mobile Development
+- Android Development: [Android Essentials](https://developer.android.com/get-started), [Kotlin](https://developer.android.com/kotlin/first)
+- iOS Development: [Swift](https://developer.apple.com/documentation/)
+- Cross-Platform Development: [Flutter](https://docs.flutter.dev/), [React Native](https://reactnative.dev/docs/getting-started)
+
 ## Databases
 
 - Relational databases: [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/)
 - Database design: [Database Design - Stanford University](https://web.stanford.edu/class/cs145/)
 - SQL querying and optimization: [SQLZoo](https://sqlzoo.net/), [LeetCode Database Problems](https://leetcode.com/problemset/database/)
-- Introduction to NoSQL databases: [MongoDB University](https://university.mongodb.com/)
+- Introduction to NoSQL databases: [MongoDB University](https://university.mongodb.com/), [Firebase](https://firebase.google.com/docs/database)
 
 ## Networking Basics
 
@@ -249,22 +273,22 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 
 ## Possible Job Roles
 
-| Job Role                   | Average Salary (PHP) | US Average (PHP) | AUS Average (PHP) | PH Average (PHP) |
-|----------------------------|----------------------|------------------|-------------------|------------------|
-| Software Developer         | ₱1,200,000           | ₱5,720,000      | ₱4,110,000       | ₱500,000        |
-| Web Developer              | ₱900,000             | ₱4,285,000      | ₱2,860,000       | ₱400,000        |
-| Database Administrator     | ₱1,000,000           | ₱4,750,000      | ₱3,570,000       | ₱600,000        |
-| Network Engineer           | ₱950,000             | ₱4,515,000      | ₱3,010,000       | ₱500,000        |
-| Cybersecurity Analyst     | ₱1,300,000           | ₱6,185,000      | ₱3,935,000       | ₱700,000        |
-| Cloud Solutions Architect | ₱1,500,000           | ₱7,125,000      | ₱5,775,000       | ₱800,000        |
-| Data Scientist             | ₱1,700,000           | ₱8,065,000      | ₱5,500,000       | ₱900,000        |
-| AI/Machine Learning Engineer | ₱1,600,000        | ₱7,600,000      | ₱4,950,000       | ₱850,000        |
-| DevOps Engineer           | ₱1,300,000           | ₱6,185,000      | ₱4,150,000       | ₱700,000        |
-| UX/UI Designer            | ₱1,000,000           | ₱4,750,000      | ₱3,800,000       | ₱600,000        |
-| IT Project Manager        | ₱1,400,000           | ₱6,650,000      | ₱5,100,000       | ₱750,000        |
-| Network Administrator     | ₱950,000             | ₱4,515,000      | ₱3,620,000       | ₱500,000        |
-| Software Tester           | ₱800,000             | ₱3,800,000      | ₱3,080,000       | ₱450,000        |
-| Technical Support Engineer | ₱700,000           | ₱3,325,000      | ₱2,750,000       | ₱400,000        |
+| Job Role                     | Average Salary (PHP) | US Average (PHP) | AUS Average (PHP) | PH Average (PHP) |
+| ---------------------------- | -------------------- | ---------------- | ----------------- | ---------------- |
+| Software Developer           | ₱1,200,000           | ₱5,720,000       | ₱4,110,000        | ₱500,000         |
+| Web Developer                | ₱900,000             | ₱4,285,000       | ₱2,860,000        | ₱400,000         |
+| Database Administrator       | ₱1,000,000           | ₱4,750,000       | ₱3,570,000        | ₱600,000         |
+| Network Engineer             | ₱950,000             | ₱4,515,000       | ₱3,010,000        | ₱500,000         |
+| Cybersecurity Analyst        | ₱1,300,000           | ₱6,185,000       | ₱3,935,000        | ₱700,000         |
+| Cloud Solutions Architect    | ₱1,500,000           | ₱7,125,000       | ₱5,775,000        | ₱800,000         |
+| Data Scientist               | ₱1,700,000           | ₱8,065,000       | ₱5,500,000        | ₱900,000         |
+| AI/Machine Learning Engineer | ₱1,600,000           | ₱7,600,000       | ₱4,950,000        | ₱850,000         |
+| DevOps Engineer              | ₱1,300,000           | ₱6,185,000       | ₱4,150,000        | ₱700,000         |
+| UX/UI Designer               | ₱1,000,000           | ₱4,750,000       | ₱3,800,000        | ₱600,000         |
+| IT Project Manager           | ₱1,400,000           | ₱6,650,000       | ₱5,100,000        | ₱750,000         |
+| Network Administrator        | ₱950,000             | ₱4,515,000       | ₱3,620,000        | ₱500,000         |
+| Software Tester              | ₱800,000             | ₱3,800,000       | ₱3,080,000        | ₱450,000         |
+| Technical Support Engineer   | ₱700,000             | ₱3,325,000       | ₱2,750,000        | ₱400,000         |
 
 **Note:** Salaries are approximate averages and can vary based on experience, location, and other factors.
 
@@ -285,6 +309,8 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeSignal](https://codesignal.com/)
 - [Project Euler](https://projecteuler.net/)
+- [CodeWars](https://www.codewars.com/)
+- [uicoach.io](https://www.uicoach.io/GenerateChallenge) (For UI/UX Design Enthusiasts)
 
 ### Documentation and Tutorials
 
@@ -294,16 +320,16 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 
 ## 2-Year Time Frame Roadmap
 
-| Year | Quarter | Subjects to Cover                                          | Resources                                                |
-|------|---------|------------------------------------------------------------|---------------------------------------------------------|
-| 1    | Q1      | Programming Fundamentals<br>Web Development (HTML, CSS, JavaScript) | \[Codecademy\](https://www.codecademy.com/learn/introduction-to-programming), \[MDN\](https://developer.mozilla.org/en-US/docs/Learn), \[freeCodeCamp\](https://www.freecodecamp.org/) |
-|      | Q2      | Web Development (Frontend frameworks)<br>Databases (Relational databases and SQL) | \[React\](https://reactjs.org/docs/getting-started.html), \[Angular\](https://angular.io/docs), \[Vue.js\](https://vuejs.org/v2/guide/), \[SQLZoo\](https://sqlzoo.net/), \[W3Schools\](https://www.w3schools.com/sql/) |
-|      | Q3      | Networking Basics<br>Databases (Database design and normalization) | \[Cisco Networking Basics\](https://www.netacad.com/courses/networking/networking-basics), \[Database Design Tutorial\](https://www.guru99.com/database-normalization.html), \[Advanced SQL\](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql?view=sql-server-ver15) |
-|      | Q4      | Cybersecurity (Introduction)<br>Cloud Computing (Introduction) | \[Cybrary\](https://www.cybrary.it/course/introduction-cyber-security/), \[Cloud Computing Fundamentals\](https://aws.amazon.com/getting-started/fundamentals-overview/) |
-| 2    | Q1      | Web Development (Backend technologies)<br>Cybersecurity (Cryptography and Network Security) | \[Node.js\](https://nodejs.org/en/docs/), \[Django\](https://docs.djangoproject.com/en/3.2/), \[Flask\](https://flask.palletsprojects.com/en/2.0.x/), \[Khan Academy Cryptography\](https://www.khanacademy.org/computing/computer-science/cryptography) |
-|      | Q2      | Networking Basics (IP addressing, subnetting)<br>Cloud Computing (Virtualization and containerization) | \[SubnettingPractice\](https://www.subnettingpractice.com/), \[IPv6 Essentials\](http://ipv6-essentials.com/), \[Docker Documentation\](https://docs.docker.com/), \[Kubernetes Documentation\](https://kubernetes.io/docs/home/) |
-|      | Q3      | Cybersecurity (Ethical hacking, penetration testing)<br>Cloud Computing (Cloud services and deployment models) | \[Metasploit Unleashed\](https://www.metasploitunleashed.com/), \[Amazon Web Services\](https://aws.amazon.com/getting-started/), \[Microsoft Azure\](https://learn.microsoft.com/en-us/azure/), \[Google Cloud Platform\](https://cloud.google.com/) |
-|      | Q4      | Finalize any remaining subjects<br>Enhance skills in specific areas of interest<br>Continuous learning and project building | -                                                       |
+| Year | Quarter | Subjects to Cover                                                                                                           | Resources                                                                                                                                                                                                                                                                                    |
+| ---- | ------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Q1      | Programming Fundamentals<br>Web Development (HTML, CSS, JavaScript)                                                         | \[Codecademy\](https://www.codecademy.com/learn/introduction-to-programming), \[MDN\](https://developer.mozilla.org/en-US/docs/Learn), \[freeCodeCamp\](https://www.freecodecamp.org/)                                                                                                       |
+|      | Q2      | Web Development (Frontend frameworks)<br>Databases (Relational databases and SQL)                                           | \[React\](https://reactjs.org/docs/getting-started.html), \[Angular\](https://angular.io/docs), \[Vue.js\](https://vuejs.org/v2/guide/), \[SQLZoo\](https://sqlzoo.net/), \[W3Schools\](https://www.w3schools.com/sql/)                                                                      |
+|      | Q3      | Networking Basics<br>Databases (Database design and normalization)                                                          | \[Cisco Networking Basics\](https://www.netacad.com/courses/networking/networking-basics), \[Database Design Tutorial\](https://www.guru99.com/database-normalization.html), \[Advanced SQL\](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql?view=sql-server-ver15) |
+|      | Q4      | Cybersecurity (Introduction)<br>Cloud Computing (Introduction)                                                              | \[Cybrary\](https://www.cybrary.it/course/introduction-cyber-security/), \[Cloud Computing Fundamentals\](https://aws.amazon.com/getting-started/fundamentals-overview/)                                                                                                                     |
+| 2    | Q1      | Web Development (Backend technologies)<br>Cybersecurity (Cryptography and Network Security)                                 | \[Node.js\](https://nodejs.org/en/docs/), \[Django\](https://docs.djangoproject.com/en/3.2/), \[Flask\](https://flask.palletsprojects.com/en/2.0.x/), \[Khan Academy Cryptography\](https://www.khanacademy.org/computing/computer-science/cryptography)                                     |
+|      | Q2      | Networking Basics (IP addressing, subnetting)<br>Cloud Computing (Virtualization and containerization)                      | \[SubnettingPractice\](https://www.subnettingpractice.com/), \[IPv6 Essentials\](http://ipv6-essentials.com/), \[Docker Documentation\](https://docs.docker.com/), \[Kubernetes Documentation\](https://kubernetes.io/docs/home/)                                                            |
+|      | Q3      | Cybersecurity (Ethical hacking, penetration testing)<br>Cloud Computing (Cloud services and deployment models)              | \[Metasploit Unleashed\](https://www.metasploitunleashed.com/), \[Amazon Web Services\](https://aws.amazon.com/getting-started/), \[Microsoft Azure\](https://learn.microsoft.com/en-us/azure/), \[Google Cloud Platform\](https://cloud.google.com/)                                        |
+|      | Q4      | Finalize any remaining subjects<br>Enhance skills in specific areas of interest<br>Continuous learning and project building | -                                                                                                                                                                                                                                                                                            |
 
 **Note:** The provided resources are just starting points. Feel free to explore additional online courses, tutorials, and documentation.
 
