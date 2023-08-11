@@ -333,26 +333,26 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 
 **Note:** The provided resources are just starting points. Feel free to explore additional online courses, tutorials, and documentation.
 
-## Tips for Improving IT Skills
+## Tips for Enhancing IT Skills
 
 - **Consistent Practice:** Regularly practice coding, problem-solving, and hands-on projects to reinforce your skills.
-- **Project Building:** Create personal projects to apply what you've learned in real-world scenarios.
-- **Collaboration:** Join coding communities, forums, and open-source projects to collaborate and learn from others.
-- **Networking:** Attend tech meetups, conferences, and workshops to network with professionals in the field.
-- **Online Communities:** Participate in tech discussions on platforms like \[Stack Overflow\](https://stackoverflow.com/) and \[Reddit\](https://www.reddit.com/r/learnprogramming/).
-- **Stay Curious:** Explore emerging technologies and trends to stay updated with the rapidly evolving IT landscape.
-- **Continuous Learning:** Set aside time for continuous learning, even after you've covered the core curriculum.
-- **Company's Facebook Page:** Follow our \[iCreatechs Facebook page\](https://www.facebook.com/icreatechs) for additional IT tips and updates.
-- **Collaboration on Discord:** Join our \[Discord group\](https://discord.com/invite/44JBBe62fx) with 17k members to collaborate and code together.
-- **Facebook Group Community:** Become a part of our \[iCreatechs Community Facebook group\](https://www.facebook.com/groups/icreatechs.community) with 90k members that can help you improve your coding skills together.
+- **Project Development:** Create personal projects to apply your newfound knowledge in practical scenarios.
+- **Collaboration:** Engage in coding communities, forums, and open-source projects to learn from peers and collaborate.
+- **Networking:** Attend tech meetups, conferences, and workshops to connect with industry professionals.
+- **Online Communities:** Participate in tech discussions on platforms like [Stack Overflow](https://stackoverflow.com/) and [Reddit](https://www.reddit.com/r/learnprogramming/).
+- **Stay Curious:** Explore emerging technologies and trends to stay up-to-date in the ever-evolving IT landscape.
+- **Continuous Learning:** Dedicate time to ongoing learning, even beyond the core curriculum.
+- **Company's Facebook Page:** Follow our [iCreatechs Facebook page](https://www.facebook.com/icreatechs) for additional IT insights and updates.
+- **Collaboration on Discord:** Join our [Discord group](https://discord.com/invite/44JBBe62fx) with 17k members to code and collaborate together.
+- **Facebook Group Community:** Be part of our [iCreatechs Community Facebook group](https://www.facebook.com/groups/icreatechs.community) with 90k members to collectively enhance coding skills.
 
 ## How to Contribute
 
 We welcome contributions to improve and expand this IT Curriculum and Training Guide. Your contributions can help make this resource even more valuable for aspiring IT professionals. Here's a step-by-step guide on how you can contribute:
 
 1. **Fork the Repository:**
-   - Go to the \[IT Curriculum and Training Guide repository\](https://github.com/carlcastanas/it-curriculum-guide).
-   - Click the "Fork" button at the top right corner of the page. This will create a copy of the repository in your GitHub account.
+   - Visit the [IT Curriculum and Training Guide repository](https://github.com/carlcastanas/it-curriculum-guide).
+   - Click the "Fork" button located at the upper right corner of the page. This will clone the repository to your GitHub account.
 
 2. **Clone Your Fork:**
    - Open a terminal on your computer.
