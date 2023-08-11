@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
   <img src="./assets/img/image.gif" alt="iCreatechs Logo">
   <h3>Icreatechs IT Curriculum and Training Guide</h3>
   <div align="center">
