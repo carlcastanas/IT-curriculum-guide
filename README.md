@@ -27,10 +27,11 @@ Starting a career in Information Technology (IT) may be both thrilling and intim
 
 ## Programming Fundamentals
 
-- Languages: [Python](https://www.python.org/), [Java](https://www.java.com/), [C++](http://www.cplusplus.com/)
+- Languages: [Python](https://www.python.org/), [Java](https://www.java.com/), [C++](http://www.cplusplus.com/), [Rust](https://www.rust-lang.org/)
 - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
 - [Coursera - Programming for Everybody (Python)](https://www.coursera.org/specializations/python)
 - [edX - Introduction to Java Programming](https://www.edx.org/course/introduction-to-java-programming)
+- [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
 
 ## Web Development
 
