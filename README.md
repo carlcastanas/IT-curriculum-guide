@@ -7,67 +7,244 @@
 [![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/network/members)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/icreatechs-aus)](https://www.linkedin.com/company/icreatechs-aus)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.IT-curriculum-guide)
+<br/>
+[![GitHub Student Pack](https://img.shields.io/badge/GitHub_Student_Pack-Claim_Now-37a779?style=for-the-badge)](https://education.github.com/benefits?type=student)
+
 
 </div>
+
+
 </div>
 
-## Summary
+# Summary
 Embarking on a journey in the field of Information Technology (IT) can be both exciting and daunting. This guide is designed to provide aspiring IT professionals with a structured curriculum, abundant resources, and valuable insights into various job roles within the IT landscape. Whether you're a newcomer or aiming to enhance your skills, this guide serves as a roadmap to success.
 
-## Curriculum Overview
+## Overview
 
-- [Programming Fundamentals](#programming-fundamentals)
-- [Web Development](#web-development)
-- [Databases](#databases)
-- [Networking Basics](#networking-basics)
-- [Cybersecurity](#cybersecurity)
-- [Cloud Computing](#cloud-computing)
+- Programming Fundamentals
+	- [General Programming Languagess](#general-programming-languages)
+	- [Courses You Need to Try](#free-courses-you-need-to-try)
+	- [Concepts You Need to Know](https://www.educative.io/answers/what-are-the-basic-fundamental-concepts-of-programming)
+	- [Roadmaps For Your Career](https://roadmap.sh)
+	- [Git: Version Control Systems ](https://learn.microsoft.com/en-us/training/modules/intro-to-git/)
+	- [Check This Resources You'll Love!](#training-resources)
+- Web Development
+	- [Frontend Guide](#frontend-mini-guide)
+	- [Backend Guide](#backend-mini-guide)
+	- [Fullstack Guide](#fullstack-mini-guide)
+- Databases Management
+  - Relational Databases
+    - [PostgreSQL](https://www.postgresql.org/)
+    - [MySQL](https://www.mysql.com/)
+  - NoSQL Databases
+    - [MongoDB](https://www.mongodb.com/)
+    - [Redis](https://redis.io/)
+  - Lightweight Databases
+    - [SQLite](https://www.sqlite.org/)
+    - [MariaDB](https://mariadb.org/)
+    - [CouchDB](https://couchdb.apache.org/)
+  - ORM (Object-Relational Mapping)
+    - [Sequelize](https://sequelize.org/)
+    - [Hibernate](https://hibernate.org/)
+    - [Entity Framework](https://docs.microsoft.com/en-us/ef/)
+  - Database Toolkits
+    - [Prisma](https://www.prisma.io/)
+    - [TypeORM](https://typeorm.io/)
+    - [SQLAlchemy](https://www.sqlalchemy.org/)
+    - [Drizzle](https://github.com/drizzle-db/drizzle)
+- Networking Basics
+	- [TCP/IP Illustrated](https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0321336313)
+	- [Networking Basics - Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html)
+	- [SubnettingPractice](http://www.subnettingpractice.com/)
+	- [Wireshark](https://www.wireshark.org/) for network analysis
+	- [Cybrary - Networking](https://www.cybrary.it/catalog/cybrary/courses/networking-fundamentals/)
+- Cybersecurity
+	- Types of cyber threats: [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+	- [Cryptography and Network Security](https://www.amazon.com/Cryptography-Network-Security-Principles-Practice/dp/0134444280)
+	- [Metasploit Unleashed](https://www.metasploitunleashed.com/)
+	- [HackerRank - Cybersecurity Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-cybersecurity)
+	- [Cyber Security Courses on Coursera](https://www.coursera.org/browse/information-technology/cyber-security)
+- Cloud Computing
+	- Introduction to cloud services: [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/), [GCP](https://cloud.google.com/)
+	- Cloud deployment models: [IaaS, PaaS, SaaS](https://www.redhat.com/en/topics/cloud-computing/cloud-service-models)
+	- Virtualization and containerization: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/)
+	- [AWS Training and Certification](https://aws.amazon.com/training/)
+	- [Azure Learn](https://docs.microsoft.com/en-us/learn/azure/)
 
-## Programming Fundamentals
+---
 
-- Languages: [Python](https://www.python.org/), [Java](https://www.java.com/), [C++](http://www.cplusplus.com/)
+## General Programming Languages
+Programming languages are the heart of software development. Each language has its strengths and applications. Here's a quick overview:
+
+- **Python**: A versatile language known for its readability and simplicity. It's great for beginners and has a wide range of applications, from web development to data science. [Learn more](https://python.org)
+
+- **JavaScript**: The language of the web, used for building interactive websites and web applications. It's also used for server-side development with Node.js. [Learn more](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+- **Java**: A versatile and widely-used language for building robust applications. It's known for its portability and is commonly used in enterprise environments. [Learn more](https://www.java.com)
+
+- **C++**: An extension of the C language, C++ is used for system-level programming, game development, and high-performance applications. [Learn more](https://isocpp.org)
+
+- **Ruby**: A dynamic, elegant language often used for web development. It's appreciated for its clean syntax and developer-friendly environment. [Learn more](https://www.ruby-lang.org)
+
+- **Swift**: Developed by Apple, Swift is used for creating iOS, macOS, watchOS, and tvOS applications. It's known for its speed and safety features. [Learn more](https://swift.org)
+
+- **Rust**: A systems programming language that emphasizes safety and performance. It's gaining popularity for its modern features and memory safety. [Learn more](https://www.rust-lang.org)
+
+> **Remember!** Each language has its unique strengths, so pick one that matches your goals and interests. Happy coding!
+
+---
+
+## Free Courses You Need To Try
 - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
 - [Coursera - Programming for Everybody (Python)](https://www.coursera.org/specializations/python)
 - [edX - Introduction to Java Programming](https://www.edx.org/course/introduction-to-java-programming)
+- [Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
+- [Introduction to Programming with Scratch](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch?delta=0)
+- [Introduction to Programming with Python](https://edx.org/course/cs50s-introduction-to-programming-with-python)
+- [Understanding Technology](https://pll.harvard.edu/course/cs50s-understanding-technology-0?delta=0)
+- [Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0)
+- [Introduction to Game Development](https://pll.harvard.edu/course/cs50s-introduction-game-development?delta=0)
+- [CS50's Computer Science for Business Professionals](https://pll.harvard.edu/course/cs50s-computer-science-business-professionals-0?delta=0)
+- [Mobile App Development with React Native](https://pll.harvard.edu/course/cs50s-mobile-app-development-react-native?delta=0)
+- [Introduction to Data Science with Python](https://pll.harvard.edu/course/introduction-data-science-python?delta=0)
 
-## Web Development
+---
 
-- [HTML and CSS fundamentals](https://www.w3schools.com/html/), [CSS-Tricks](https://css-tricks.com/)
-- [JavaScript MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- Frontend frameworks: [React](https://reactjs.org/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/)
-- Backend technologies: [Node.js](https://nodejs.org/), [Django](https://www.djangoproject.com/), [Ruby on Rails](https://rubyonrails.org/)
-- [FreeCodeCamp](https://www.freecodecamp.org/): Hands-on web development projects
+## Frontend Mini Guide
 
-## Databases
+- **Basics**
+  - [HTML](https://www.w3schools.com/html/)
+    - Tags
+    - SEO
+    - Accessibility
+  - [CSS](https://www.w3schools.com/css/)
+    - Layouts
+    - Responsiveness
+  - [JavaScript](https://www.w3schools.com/js/)
+    - Fetch API/Ajax (XHR)
+    - Handling Forms
 
-- Relational databases: [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/)
-- Database design: [Database Design - Stanford University](https://web.stanford.edu/class/cs145/)
-- SQL querying and optimization: [SQLZoo](https://sqlzoo.net/), [LeetCode Database Problems](https://leetcode.com/problemset/database/)
-- Introduction to NoSQL databases: [MongoDB University](https://university.mongodb.com/)
+- **Intermediate**
+  - **JS Frameworks**
+    - [React](https://reactjs.org/)
+    - [Vue](https://vuejs.org/)
+    - [Angular](https://angular.io/)
+    - [Svelte](https://svelte.dev/)
+    - [Astro](https://astro.build/)
+  - **CSS Frameworks**
+    - [SASS](https://sass-lang.com/), [PostCSS](https://postcss.org/)
+    - [Tailwind CSS](https://tailwindcss.com/)
+    - [Bootstrap](https://getbootstrap.com/)
+    - [Chakra UI](https://chakra-ui.com/)
+    - [Material UI](https://mui.com/)
+  - **Other Web Frameworks**
+    - [Django](https://www.djangoproject.com/)
+    - [Laravel](https://laravel.com/)
+    - [Ruby on Rails](https://rubyonrails.org/)
+  - **Cross-Platform Applications**
+	  - Android, iOS
+	    - [React Native](https://reactnative.dev/)
+	    - [Flutter](https://flutter.dev/)
+	    - [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
+	  - Windows, macOS, Linux
+	    - [Electron](https://www.electronjs.org/)
+	    - [Qt](https://www.qt.io/)
+	    - [Avalonia](https://avaloniaui.net/)
+	    - [JavaFX](https://openjfx.io/)
+	    - [NW.js](https://nwjs.io/)
+	    - [Proton Native](https://proton-native.js.org/)
+	    - [Sciter](https://sciter.com/)
 
-## Networking Basics
 
-- [TCP/IP Illustrated](https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0321336313)
-- [Networking Basics - Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html)
-- [SubnettingPractice](http://www.subnettingpractice.com/)
-- [Wireshark](https://www.wireshark.org/) for network analysis
-- [Cybrary - Networking](https://www.cybrary.it/catalog/cybrary/courses/networking-fundamentals/)
+- **Advanced**
+  - **Frontend Cloud**
+    - [Netlify](https://www.netlify.com/)
+    - [Vercel](https://vercel.com/)
+    - [Cloudflare](https://www.cloudflare.com/)
+    - [AWS](https://aws.amazon.com/)
+    - [Azure](https://azure.microsoft.com/)
+  - **Server Side Rendering**
+  - **Static Site Generation**
+  - **Using Devtools**
 
-## Cybersecurity
+---
 
-- Types of cyber threats: [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
-- [Cryptography and Network Security](https://www.amazon.com/Cryptography-Network-Security-Principles-Practice/dp/0134444280)
-- [Metasploit Unleashed](https://www.metasploitunleashed.com/)
-- [HackerRank - Cybersecurity Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-cybersecurity)
-- [Cyber Security Courses on Coursera](https://www.coursera.org/browse/information-technology/cyber-security)
+## Backend Mini Guide
 
-## Cloud Computing
+- **Basics**
+  - [Programming Languages](https://www.w3schools.com/)
+    - Python
+    - Ruby
+    - Node.js (JavaScript)
+    - Java
 
-- Introduction to cloud services: [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/), [GCP](https://cloud.google.com/)
-- Cloud deployment models: [IaaS, PaaS, SaaS](https://www.redhat.com/en/topics/cloud-computing/cloud-service-models)
-- Virtualization and containerization: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/)
-- [AWS Training and Certification](https://aws.amazon.com/training/)
-- [Azure Learn](https://docs.microsoft.com/en-us/learn/azure/)
+- **Web Servers and APIs**
+  - [HTTP Basics](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+  - [RESTful APIs](https://restfulapi.net/)
+  - [GraphQL](https://graphql.org/)
+  
+- **Databases**
+  - [SQL](https://www.w3schools.com/sql/)
+    - MySQL
+    - PostgreSQL
+    - SQLite
+  - [NoSQL](https://www.mongodb.com/nosql-explained)
+    - MongoDB
+    - Redis
+    - Cassandra
+
+- **Backend Frameworks**
+  - [Express.js (Node.js)](https://expressjs.com/)
+  - [Ruby on Rails](https://rubyonrails.org/)
+  - [Django (Python)](https://www.djangoproject.com/)
+  - [Flask (Python)](https://flask.palletsprojects.com/)
+
+- **Authentication and Authorization**
+  - [OAuth 2.0](https://oauth.net/2/)
+  - [JWT](https://jwt.io/)
+
+- **Advanced**
+  - **Backend Cloud Services**
+    - [Supabase](https://supabase.io/)
+    - [Firebase](https://firebase.google.com/)
+    - [Pocketbase](https://www.pocketbase.io/)
+  - **Server Deployment**
+    - [Docker](https://www.docker.com/)
+    - [Kubernetes](https://kubernetes.io/)
+  - **Serverless Architecture**
+    - [AWS Lambda](https://aws.amazon.com/lambda/)
+    - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+  - **API Security**
+  - **Caching Strategies**
+ 
+---
+
+## Fullstack Mini Guide
+
+After mastering the frontend and backend basics, it's time to combine them! Start creating fullstack applications that seamlessly blend user experience with server-side logic. 
+
+### Project-Based Learning FTW
+
+PBL is a dynamic approach to mastering new skills. Instead of just reading about concepts, you learn by rolling up your sleeves and building projects. It's like diving into the real deal straight away. By creating practical applications, you not only gain hands-on experience but also solidify your understanding of concepts in a more engaging way. So, it's a win-win situation where you learn and conquer at the same time
+
+### Side Project Ideas
+
+- **E-commerce Platform**: Build a virtual shop with product listings, shopping cart, and secure checkout.
+- **Social Media App**: Create a platform for users to connect, share posts, and engage.
+- **Task Management Tool**: Craft a robust app to organize tasks, deadlines, and priorities.
+- **Real-time Chat Application**: Develop a chat app where users can exchange messages instantly.
+- **Portfolio Website**: Showcase your skills with an impressive portfolio site.
+
+### Resources for Your Fullstack Journey
+
+- [FreeCodeCamp](https://www.freecodecamp.org/): Offers in-depth fullstack curriculum.
+- [The Odin Project](https://www.theodinproject.com/): A fullstack learning path with hands-on projects.
+- [Fullstackopen](https://fullstackopen.com/): University-level fullstack course with React, Node.js, and more.
+- [Project Ideas from GitHub](https://github.com/karan/Projects): A collection of coding project ideas to challenge yourself.
+
+---
+
 
 ## Possible Job Roles
 
@@ -100,6 +277,10 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 - [Codecademy](https://www.codecademy.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Khan Academy](https://www.khanacademy.org/)
+- [LinkedIn Learning](https://www.linkedin.com/learning/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [Google Developers](https://developers.google.com/learn)
+- [Microsoft Learn](https://learn.microsoft.com/)
 
 ### Coding Practice and Challenges
 
@@ -107,12 +288,44 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeSignal](https://codesignal.com/)
 - [Project Euler](https://projecteuler.net/)
-
-### Documentation and Tutorials
+- [CodeWars](https://www.codewars.com/)
+- [Exercism](https://exercism.io/)
+- [Stack Overflow](https://stackoverflow.com/)
+  
+### Official Documentation and Tutorials
 
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [W3Schools](https://www.w3schools.com/)
 - [DevDocs](https://devdocs.io/)
+
+## Free Tier Offers
+
+- **Amazon Web Services (AWS)**
+  - [AWS Free Tier](https://aws.amazon.com/free/)
+- **Microsoft Azure**
+  - [Microsoft Azure Free Account](https://azure.microsoft.com/en-us/free/)
+- **Google Cloud Platform**
+  - [Google Cloud Free Tier](https://cloud.google.com/free)
+- **IBM Cloud**
+  - [IBM Cloud Free Tier](https://www.ibm.com/cloud/free)
+- **Heroku**
+  - [Heroku Free Tier](https://www.heroku.com/free)
+- **Firebase**
+  - [Firebase Spark Plan](https://firebase.google.com/pricing)
+- **Vercel**
+  - [Vercel Free Plan](https://vercel.com/pricing)
+- **Netlify**
+  - [Netlify Free Plan](https://www.netlify.com/pricing)
+- **MongoDB Atlas**
+  - [MongoDB Atlas Free Tier](https://www.mongodb.com/cloud/atlas)
+
+- **Redis Labs**
+  - [Redis Labs Free Tier](https://redislabs.com/redis-enterprise-cloud/try-free/)
+- **Auth0**
+  - [Auth0 Free Tier](https://auth0.com/pricing)
+- **Twilio**
+  - [Twilio Free Tier](https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account)
+
 
 ## 2-Year Time Frame Roadmap
 
