@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./image.gif" alt="iCreatechs Logo">
+  <img src="./assets/img/image.gif" alt="iCreatechs Logo">
   <h3>Icreatechs IT Curriculum and Training Guide</h3>
   <div align="center">
 
@@ -9,12 +9,14 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.IT-curriculum-guide)
 
 </div>
+
+
 </div>
 
-## Summary
-Embarking on a journey in the field of Information Technology (IT) can be both exciting and daunting. This guide is designed to provide aspiring IT professionals with a structured curriculum, abundant resources, and valuable insights into various job roles within the IT landscape. Whether you're a newcomer or aiming to enhance your skills, this guide serves as a roadmap to success.
+# Summary
+Starting a career in Information Technology (IT) may be both thrilling and intimidating. This resource is intended to equip prospective IT professionals with a structured curriculum, a wealth of resources, and useful insights into various employment areas within the IT environment. Whether you're a newbie or want to improve your talents, this guide will help you get there.
 
-## Curriculum Overview
+## Overview
 
 - [Summary](#summary)
 - [Curriculum Overview](#curriculum-overview)
@@ -36,10 +38,11 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 
 ## Programming Fundamentals
 
-- Languages: [Python](https://www.python.org/), [Java](https://www.java.com/), [C++](http://www.cplusplus.com/)
+- Languages: [Python](https://www.python.org/), [Java](https://www.java.com/), [C++](http://www.cplusplus.com/), [Rust](https://www.rust-lang.org/)
 - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
 - [Coursera - Programming for Everybody (Python)](https://www.coursera.org/specializations/python)
 - [edX - Introduction to Java Programming](https://www.edx.org/course/introduction-to-java-programming)
+- [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
 
 ## Web Development
 
@@ -84,6 +87,181 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 - Virtualization and containerization: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/)
 - [AWS Training and Certification](https://aws.amazon.com/training/)
 - [Azure Learn](https://docs.microsoft.com/en-us/learn/azure/)
+
+---
+
+## General Programming Languages
+Programming languages are the heart of software development. Each language has its strengths and applications. Here's a quick overview:
+
+- **Python**: A versatile language known for its readability and simplicity. It's great for beginners and has a wide range of applications, from web development to data science. [Learn more](https://python.org)
+
+- **JavaScript**: The language of the web, used for building interactive websites and web applications. It's also used for server-side development with Node.js. [Learn more](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+- **Java**: A versatile and widely-used language for building robust applications. It's known for its portability and is commonly used in enterprise environments. [Learn more](https://www.java.com)
+
+- **C++**: An extension of the C language, C++ is used for system-level programming, game development, and high-performance applications. [Learn more](https://isocpp.org)
+
+- **Ruby**: A dynamic, elegant language often used for web development. It's appreciated for its clean syntax and developer-friendly environment. [Learn more](https://www.ruby-lang.org)
+
+- **Swift**: Developed by Apple, Swift is used for creating iOS, macOS, watchOS, and tvOS applications. It's known for its speed and safety features. [Learn more](https://swift.org)
+
+- **Rust**: A systems programming language that emphasizes safety and performance. It's gaining popularity for its modern features and memory safety. [Learn more](https://www.rust-lang.org)
+
+> **Remember!** Each language has its unique strengths, so pick one that matches your goals and interests. Happy coding!
+
+---
+
+## Free Courses You Need To Try
+- [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
+- [Coursera - Programming for Everybody (Python)](https://www.coursera.org/specializations/python)
+- [edX - Introduction to Java Programming](https://www.edx.org/course/introduction-to-java-programming)
+- [Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
+- [Introduction to Programming with Scratch](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch?delta=0)
+- [Introduction to Programming with Python](https://edx.org/course/cs50s-introduction-to-programming-with-python)
+- [Understanding Technology](https://pll.harvard.edu/course/cs50s-understanding-technology-0?delta=0)
+- [Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0)
+- [Introduction to Game Development](https://pll.harvard.edu/course/cs50s-introduction-game-development?delta=0)
+- [CS50's Computer Science for Business Professionals](https://pll.harvard.edu/course/cs50s-computer-science-business-professionals-0?delta=0)
+- [Mobile App Development with React Native](https://pll.harvard.edu/course/cs50s-mobile-app-development-react-native?delta=0)
+- [Introduction to Data Science with Python](https://pll.harvard.edu/course/introduction-data-science-python?delta=0)
+
+---
+
+## Frontend Mini Guide
+
+- **Basics**
+  - [HTML](https://www.w3schools.com/html/)
+    - Tags
+    - SEO
+    - Accessibility
+  - [CSS](https://www.w3schools.com/css/)
+    - Layouts
+    - Responsiveness
+  - [JavaScript](https://www.w3schools.com/js/)
+    - Fetch API/Ajax (XHR)
+    - Handling Forms
+
+- **Intermediate**
+  - **JS Frameworks**
+    - [React](https://reactjs.org/)
+    - [Vue](https://vuejs.org/)
+    - [Angular](https://angular.io/)
+    - [Svelte](https://svelte.dev/)
+    - [Astro](https://astro.build/)
+  - **CSS Frameworks**
+    - [SASS](https://sass-lang.com/), [PostCSS](https://postcss.org/)
+    - [Tailwind CSS](https://tailwindcss.com/)
+    - [Bootstrap](https://getbootstrap.com/)
+    - [Chakra UI](https://chakra-ui.com/)
+    - [Material UI](https://mui.com/)
+  - **Other Web Frameworks**
+    - [Django](https://www.djangoproject.com/)
+    - [Laravel](https://laravel.com/)
+    - [Ruby on Rails](https://rubyonrails.org/)
+  - **Cross-Platform Applications**
+	  - Android, iOS
+	    - [React Native](https://reactnative.dev/)
+	    - [Flutter](https://flutter.dev/)
+	    - [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
+	  - Windows, macOS, Linux
+	    - [Electron](https://www.electronjs.org/)
+	    - [Qt](https://www.qt.io/)
+	    - [Avalonia](https://avaloniaui.net/)
+	    - [JavaFX](https://openjfx.io/)
+	    - [NW.js](https://nwjs.io/)
+	    - [Proton Native](https://proton-native.js.org/)
+	    - [Sciter](https://sciter.com/)
+
+
+- **Advanced**
+  - **Frontend Cloud**
+    - [Netlify](https://www.netlify.com/)
+    - [Vercel](https://vercel.com/)
+    - [Cloudflare](https://www.cloudflare.com/)
+    - [AWS](https://aws.amazon.com/)
+    - [Azure](https://azure.microsoft.com/)
+  - **Server Side Rendering**
+  - **Static Site Generation**
+  - **Using Devtools**
+
+---
+
+## Backend Mini Guide
+
+- **Basics**
+  - [Programming Languages](https://www.w3schools.com/)
+    - Python
+    - Ruby
+    - Node.js (JavaScript)
+    - Java
+
+- **Web Servers and APIs**
+  - [HTTP Basics](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+  - [RESTful APIs](https://restfulapi.net/)
+  - [GraphQL](https://graphql.org/)
+  
+- **Databases**
+  - [SQL](https://www.w3schools.com/sql/)
+    - MySQL
+    - PostgreSQL
+    - SQLite
+  - [NoSQL](https://www.mongodb.com/nosql-explained)
+    - MongoDB
+    - Redis
+    - Cassandra
+
+- **Backend Frameworks**
+  - [Express.js (Node.js)](https://expressjs.com/)
+  - [Ruby on Rails](https://rubyonrails.org/)
+  - [Django (Python)](https://www.djangoproject.com/)
+  - [Flask (Python)](https://flask.palletsprojects.com/)
+
+- **Authentication and Authorization**
+  - [OAuth 2.0](https://oauth.net/2/)
+  - [JWT](https://jwt.io/)
+
+- **Advanced**
+  - **Backend Cloud Services**
+    - [Supabase](https://supabase.io/)
+    - [Firebase](https://firebase.google.com/)
+    - [Pocketbase](https://www.pocketbase.io/)
+  - **Server Deployment**
+    - [Docker](https://www.docker.com/)
+    - [Kubernetes](https://kubernetes.io/)
+  - **Serverless Architecture**
+    - [AWS Lambda](https://aws.amazon.com/lambda/)
+    - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+  - **API Security**
+  - **Caching Strategies**
+ 
+---
+
+## Fullstack Mini Guide
+
+After mastering the frontend and backend basics, it's time to combine them! Start creating fullstack applications that seamlessly blend user experience with server-side logic. 
+
+### Project-Based Learning FTW
+
+PBL is a dynamic approach to mastering new skills. Instead of just reading about concepts, you learn by rolling up your sleeves and building projects. It's like diving into the real deal straight away. By creating practical applications, you not only gain hands-on experience but also solidify your understanding of concepts in a more engaging way. So, it's a win-win situation where you learn and conquer at the same time
+
+### Side Project Ideas
+
+- **E-commerce Platform**: Build a virtual shop with product listings, shopping cart, and secure checkout.
+- **Social Media App**: Create a platform for users to connect, share posts, and engage.
+- **Task Management Tool**: Craft a robust app to organize tasks, deadlines, and priorities.
+- **Real-time Chat Application**: Develop a chat app where users can exchange messages instantly.
+- **Portfolio Website**: Showcase your skills with an impressive portfolio site.
+
+### Resources for Your Fullstack Journey
+
+- [FreeCodeCamp](https://www.freecodecamp.org/): Offers in-depth fullstack curriculum.
+- [The Odin Project](https://www.theodinproject.com/): A fullstack learning path with hands-on projects.
+- [Fullstackopen](https://fullstackopen.com/): University-level fullstack course with React, Node.js, and more.
+- [Project Ideas from GitHub](https://github.com/karan/Projects): A collection of coding project ideas to challenge yourself.
+
+---
+
 
 ## Possible Job Roles
 
@@ -134,16 +312,16 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 
 ## 2-Year Time Frame Roadmap
 
-| Year | Quarter | Subjects to Cover                                                                                                           | Resources                                                                                                                                                                                                                                                                              |
-| ---- | ------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Q1      | Programming Fundamentals<br>Web Development (HTML, CSS, JavaScript)                                                         | [Codecademy](https://www.codecademy.com/learn/introduction-to-programming), [MDN](https://developer.mozilla.org/en-US/docs/Learn), [freeCodeCamp](https://www.freecodecamp.org/)                                                                                                       |
-|      | Q2      | Web Development (Frontend frameworks)<br>Databases (Relational databases and SQL)                                           | [React](https://reactjs.org/docs/getting-started.html), [Angular](https://angular.io/docs), [Vue.js](https://vuejs.org/v2/guide/), [SQLZoo](https://sqlzoo.net/), [W3Schools](https://www.w3schools.com/sql/)                                                                          |
-|      | Q3      | Networking Basics<br>Databases (Database design and normalization)                                                          | [Cisco Networking Basics](https://www.netacad.com/courses/networking/networking-basics), [Database Design Tutorial](https://www.guru99.com/database-normalization.html), [Advanced SQL](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql?view=sql-server-ver15) |
-|      | Q4      | Cybersecurity (Introduction)<br>Cloud Computing (Introduction)                                                              | [Cybrary](https://www.cybrary.it/course/introduction-cyber-security/), [Cloud Computing Fundamentals](https://aws.amazon.com/getting-started/fundamentals-overview/)                                                                                                                   |
-| 2    | Q1      | Web Development (Backend technologies)<br>Cybersecurity (Cryptography and Network Security)                                 | [Node.js](https://nodejs.org/en/docs/), [Django](https://docs.djangoproject.com/en/3.2/), [Flask](https://flask.palletsprojects.com/en/2.0.x/), [Khan Academy Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)                                       |
-|      | Q2      | Networking Basics (IP addressing, subnetting)<br>Cloud Computing (Virtualization and containerization)                      | [SubnettingPractice](https://www.subnettingpractice.com/), [IPv6 Essentials](http://ipv6-essentials.com/), [Docker Documentation](https://docs.docker.com/), [Kubernetes Documentation](https://kubernetes.io/docs/home/)                                                              |
-|      | Q3      | Cybersecurity (Ethical hacking, penetration testing)<br>Cloud Computing (Cloud services and deployment models)              | [Metasploit Unleashed](https://www.metasploitunleashed.com/), [Amazon Web Services](https://aws.amazon.com/getting-started/), [Microsoft Azure](https://learn.microsoft.com/en-us/azure/), [Google Cloud Platform](https://cloud.google.com/)                                          |
-|      | Q4      | Finalize any remaining subjects<br>Enhance skills in specific areas of interest<br>Continuous learning and project building | -                                                                                                                                                                                                                                                                                      |
+| Year | Quarter | Subjects to Cover                                                                                                           | Resources                                                                                                                                                                                                                                                                                    |
+| ---- | ------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Q1      | Programming Fundamentals<br>Web Development (HTML, CSS, JavaScript)                                                         | \[Codecademy\](https://www.codecademy.com/learn/introduction-to-programming), \[MDN\](https://developer.mozilla.org/en-US/docs/Learn), \[freeCodeCamp\](https://www.freecodecamp.org/)                                                                                                       |
+|      | Q2      | Web Development (Frontend frameworks)<br>Databases (Relational databases and SQL)                                           | \[React\](https://reactjs.org/docs/getting-started.html), \[Angular\](https://angular.io/docs), \[Vue.js\](https://vuejs.org/v2/guide/), \[SQLZoo\](https://sqlzoo.net/), \[W3Schools\](https://www.w3schools.com/sql/)                                                                      |
+|      | Q3      | Networking Basics<br>Databases (Database design and normalization)                                                          | \[Cisco Networking Basics\](https://www.netacad.com/courses/networking/networking-basics), \[Database Design Tutorial\](https://www.guru99.com/database-normalization.html), \[Advanced SQL\](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql?view=sql-server-ver15) |
+|      | Q4      | Cybersecurity (Introduction)<br>Cloud Computing (Introduction)                                                              | \[Cybrary\](https://www.cybrary.it/course/introduction-cyber-security/), \[Cloud Computing Fundamentals\](https://aws.amazon.com/getting-started/fundamentals-overview/)                                                                                                                     |
+| 2    | Q1      | Web Development (Backend technologies)<br>Cybersecurity (Cryptography and Network Security)                                 | \[Node.js\](https://nodejs.org/en/docs/), \[Django\](https://docs.djangoproject.com/en/3.2/), \[Flask\](https://flask.palletsprojects.com/en/2.0.x/), \[Khan Academy Cryptography\](https://www.khanacademy.org/computing/computer-science/cryptography)                                     |
+|      | Q2      | Networking Basics (IP addressing, subnetting)<br>Cloud Computing (Virtualization and containerization)                      | \[SubnettingPractice\](https://www.subnettingpractice.com/), \[IPv6 Essentials\](http://ipv6-essentials.com/), \[Docker Documentation\](https://docs.docker.com/), \[Kubernetes Documentation\](https://kubernetes.io/docs/home/)                                                            |
+|      | Q3      | Cybersecurity (Ethical hacking, penetration testing)<br>Cloud Computing (Cloud services and deployment models)              | \[Metasploit Unleashed\](https://www.metasploitunleashed.com/), \[Amazon Web Services\](https://aws.amazon.com/getting-started/), \[Microsoft Azure\](https://learn.microsoft.com/en-us/azure/), \[Google Cloud Platform\](https://cloud.google.com/)                                        |
+|      | Q4      | Finalize any remaining subjects<br>Enhance skills in specific areas of interest<br>Continuous learning and project building | -                                                                                                                                                                                                                                                                                            |
 
 **Note:** The provided resources are just starting points. Feel free to explore additional online courses, tutorials, and documentation.
 
@@ -153,19 +331,19 @@ Embarking on a journey in the field of Information Technology (IT) can be both e
 - **Project Building:** Create personal projects to apply what you've learned in real-world scenarios.
 - **Collaboration:** Join coding communities, forums, and open-source projects to collaborate and learn from others.
 - **Networking:** Attend tech meetups, conferences, and workshops to network with professionals in the field.
-- **Online Communities:** Participate in tech discussions on platforms like [Stack Overflow](https://stackoverflow.com/) and [Reddit](https://www.reddit.com/r/learnprogramming/).
+- **Online Communities:** Participate in tech discussions on platforms like \[Stack Overflow\](https://stackoverflow.com/) and \[Reddit\](https://www.reddit.com/r/learnprogramming/).
 - **Stay Curious:** Explore emerging technologies and trends to stay updated with the rapidly evolving IT landscape.
 - **Continuous Learning:** Set aside time for continuous learning, even after you've covered the core curriculum.
-- **Company's Facebook Page:** Follow our [iCreatechs Facebook page](https://www.facebook.com/icreatechs) for additional IT tips and updates.
-- **Collaboration on Discord:** Join our [Discord group](https://discord.com/invite/44JBBe62fx) with 17k members to collaborate and code together.
-- **Facebook Group Community:** Become a part of our [iCreatechs Community Facebook group](https://www.facebook.com/groups/icreatechs.community) with 90k members that can help you improve your coding skills together.
+- **Company's Facebook Page:** Follow our \[iCreatechs Facebook page\](https://www.facebook.com/icreatechs) for additional IT tips and updates.
+- **Collaboration on Discord:** Join our \[Discord group\](https://discord.com/invite/44JBBe62fx) with 17k members to collaborate and code together.
+- **Facebook Group Community:** Become a part of our \[iCreatechs Community Facebook group\](https://www.facebook.com/groups/icreatechs.community) with 90k members that can help you improve your coding skills together.
 
 ## How to Contribute
 
 We welcome contributions to improve and expand this IT Curriculum and Training Guide. Your contributions can help make this resource even more valuable for aspiring IT professionals. Here's a step-by-step guide on how you can contribute:
 
 1. **Fork the Repository:**
-   - Go to the [IT Curriculum and Training Guide repository](https://github.com/carlcastanas/it-curriculum-guide).
+   - Go to the \[IT Curriculum and Training Guide repository\](https://github.com/carlcastanas/it-curriculum-guide).
    - Click the "Fork" button at the top right corner of the page. This will create a copy of the repository in your GitHub account.
 
 2. **Clone Your Fork:**
@@ -225,3 +403,4 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
 8. **Your Contribution Is Merged:**
    - Once your pull request is approved and any necessary changes are made, it will be merged into the main repository.
    - Congratulations! You've successfully contributed to the IT Curriculum and Training Guide.
+](.)
