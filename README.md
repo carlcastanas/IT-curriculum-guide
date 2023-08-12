@@ -10,10 +10,10 @@
 
 </div>
 
-
 </div>
 
 # Summary
+
 Starting a career in Information Technology (IT) may be both thrilling and intimidating. This resource is intended to equip prospective IT professionals with a structured curriculum, a wealth of resources, and useful insights into various employment areas within the IT environment. Whether you're a newbie or want to improve your talents, this guide will help you get there.
 
 ## Overview
@@ -62,6 +62,7 @@ Starting a career in Information Technology (IT) may be both thrilling and intim
 - [FreeCodeCamp](https://www.freecodecamp.org/): Hands-on web development projects
 
 ## Mobile Development
+
 - Android Development: [Android Essentials](https://developer.android.com/get-started), [Kotlin](https://developer.android.com/kotlin/first)
 - iOS Development: [Swift](https://developer.apple.com/documentation/)
 - Cross-Platform Development: [Flutter](https://docs.flutter.dev/), [React Native](https://reactnative.dev/docs/getting-started)
@@ -72,6 +73,7 @@ Starting a career in Information Technology (IT) may be both thrilling and intim
 - Database design: [Database Design - Stanford University](https://web.stanford.edu/class/cs145/)
 - SQL querying and optimization: [SQLZoo](https://sqlzoo.net/), [LeetCode Database Problems](https://leetcode.com/problemset/database/)
 - Introduction to NoSQL databases: [MongoDB University](https://university.mongodb.com/), [Firebase](https://firebase.google.com/docs/database)
+- CS50's Introduction to Databases with SQL: [Harvard Univeristy](https://cs50.harvard.edu/x/2023/zoom/#sql), [Edx (Starts on October 1, 2023)](https://cs50.edx.org/sql)
 
 ## Networking Basics
 
@@ -100,6 +102,7 @@ Starting a career in Information Technology (IT) may be both thrilling and intim
 ---
 
 ## General Programming Languages
+
 Programming languages are the heart of software development. Each language has its strengths and applications. Here's a quick overview:
 
 - **Python**: A versatile language known for its readability and simplicity. It's great for beginners and has a wide range of applications, from web development to data science. [Learn more](https://python.org)
@@ -121,6 +124,7 @@ Programming languages are the heart of software development. Each language has i
 ---
 
 ## Free Courses You Need To Try
+
 - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
 - [Coursera - Programming for Everybody (Python)](https://www.coursera.org/specializations/python)
 - [edX - Introduction to Java Programming](https://www.edx.org/course/introduction-to-java-programming)
@@ -140,6 +144,7 @@ Programming languages are the heart of software development. Each language has i
 ## Frontend Mini Guide
 
 - **Basics**
+
   - [HTML](https://www.w3schools.com/html/)
     - Tags
     - SEO
@@ -152,6 +157,7 @@ Programming languages are the heart of software development. Each language has i
     - Handling Forms
 
 - **Intermediate**
+
   - **JS Frameworks**
     - [React](https://reactjs.org/)
     - [Vue](https://vuejs.org/)
@@ -169,19 +175,18 @@ Programming languages are the heart of software development. Each language has i
     - [Laravel](https://laravel.com/)
     - [Ruby on Rails](https://rubyonrails.org/)
   - **Cross-Platform Applications**
-	  - Android, iOS
-	    - [React Native](https://reactnative.dev/)
-	    - [Flutter](https://flutter.dev/)
-	    - [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
-	  - Windows, macOS, Linux
-	    - [Electron](https://www.electronjs.org/)
-	    - [Qt](https://www.qt.io/)
-	    - [Avalonia](https://avaloniaui.net/)
-	    - [JavaFX](https://openjfx.io/)
-	    - [NW.js](https://nwjs.io/)
-	    - [Proton Native](https://proton-native.js.org/)
-	    - [Sciter](https://sciter.com/)
-
+    - Android, iOS
+      - [React Native](https://reactnative.dev/)
+      - [Flutter](https://flutter.dev/)
+      - [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
+    - Windows, macOS, Linux
+      - [Electron](https://www.electronjs.org/)
+      - [Qt](https://www.qt.io/)
+      - [Avalonia](https://avaloniaui.net/)
+      - [JavaFX](https://openjfx.io/)
+      - [NW.js](https://nwjs.io/)
+      - [Proton Native](https://proton-native.js.org/)
+      - [Sciter](https://sciter.com/)
 
 - **Advanced**
   - **Frontend Cloud**
@@ -199,6 +204,7 @@ Programming languages are the heart of software development. Each language has i
 ## Backend Mini Guide
 
 - **Basics**
+
   - [Programming Languages](https://www.w3schools.com/)
     - Python
     - Ruby
@@ -209,8 +215,8 @@ Programming languages are the heart of software development. Each language has i
   - [HTTP Basics](https://developer.mozilla.org/en-US/docs/Web/HTTP)
   - [RESTful APIs](https://restfulapi.net/)
   - [GraphQL](https://graphql.org/)
-  
 - **Databases**
+
   - [SQL](https://www.w3schools.com/sql/)
     - MySQL
     - PostgreSQL
@@ -221,12 +227,14 @@ Programming languages are the heart of software development. Each language has i
     - Cassandra
 
 - **Backend Frameworks**
+
   - [Express.js (Node.js)](https://expressjs.com/)
   - [Ruby on Rails](https://rubyonrails.org/)
   - [Django (Python)](https://www.djangoproject.com/)
   - [Flask (Python)](https://flask.palletsprojects.com/)
 
 - **Authentication and Authorization**
+
   - [OAuth 2.0](https://oauth.net/2/)
   - [JWT](https://jwt.io/)
 
@@ -243,12 +251,12 @@ Programming languages are the heart of software development. Each language has i
     - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
   - **API Security**
   - **Caching Strategies**
- 
+
 ---
 
 ## Fullstack Mini Guide
 
-After mastering the frontend and backend basics, it's time to combine them! Start creating fullstack applications that seamlessly blend user experience with server-side logic. 
+After mastering the frontend and backend basics, it's time to combine them! Start creating fullstack applications that seamlessly blend user experience with server-side logic.
 
 ### Project-Based Learning FTW
 
@@ -270,7 +278,6 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 - [Project Ideas from GitHub](https://github.com/karan/Projects): A collection of coding project ideas to challenge yourself.
 
 ---
-
 
 ## Possible Job Roles
 
@@ -321,16 +328,16 @@ PBL is a dynamic approach to mastering new skills. Instead of just reading about
 
 ## 2-Year Time Frame Roadmap
 
-| Year | Quarter | Subjects to Cover                                          | Resources                                                |
-|------|---------|------------------------------------------------------------|---------------------------------------------------------|
-| 1    | Q1      | Programming Fundamentals<br>Web Development (HTML, CSS, JavaScript) | [Codecademy](https://www.codecademy.com/learn/introduction-to-programming), [MDN](https://developer.mozilla.org/en-US/docs/Learn), [freeCodeCamp](https://www.freecodecamp.org/) |
-|      | Q2      | Web Development (Frontend frameworks)<br>Databases (Relational databases and SQL) | [React](https://reactjs.org/docs/getting-started.html), [Angular](https://angular.io/docs), [Vue.js](https://vuejs.org/v2/guide/), [SQLZoo](https://sqlzoo.net/), [W3Schools](https://www.w3schools.com/sql/) |
-|      | Q3      | Networking Basics<br>Databases (Database design and normalization) | [Cisco Networking Basics](https://www.netacad.com/courses/networking/networking-basics), [Database Design Tutorial](https://www.guru99.com/database-normalization.html), [Advanced SQL](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql?view=sql-server-ver15) |
-|      | Q4      | Cybersecurity (Introduction)<br>Cloud Computing (Introduction) | [Cybrary](https://www.cybrary.it/course/introduction-cyber-security/), [Cloud Computing Fundamentals](https://aws.amazon.com/getting-started/fundamentals-overview/) |
-| 2    | Q1      | Web Development (Backend technologies)<br>Cybersecurity (Cryptography and Network Security) | [Node.js](https://nodejs.org/en/docs/), [Django](https://docs.djangoproject.com/en/3.2/), [Flask](https://flask.palletsprojects.com/en/2.0.x/), [Khan Academy Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) |
-|      | Q2      | Networking Basics (IP addressing, subnetting)<br>Cloud Computing (Virtualization and containerization) | [SubnettingPractice](https://www.subnettingpractice.com/), [IPv6 Essentials](http://ipv6-essentials.com/), [Docker Documentation](https://docs.docker.com/), [Kubernetes Documentation](https://kubernetes.io/docs/home/) |
-|      | Q3      | Cybersecurity (Ethical hacking, penetration testing)<br>Cloud Computing (Cloud services and deployment models) | [Metasploit Unleashed](https://www.metasploitunleashed.com/), [Amazon Web Services](https://aws.amazon.com/getting-started/), [Microsoft Azure](https://learn.microsoft.com/en-us/azure/), [Google Cloud Platform](https://cloud.google.com/) |
-|      | Q4      | Finalize any remaining subjects<br>Enhance skills in specific areas of interest<br>Continuous learning and project building | -                                                       |
+| Year | Quarter | Subjects to Cover                                                                                                           | Resources                                                                                                                                                                                                                                                                              |
+| ---- | ------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Q1      | Programming Fundamentals<br>Web Development (HTML, CSS, JavaScript)                                                         | [Codecademy](https://www.codecademy.com/learn/introduction-to-programming), [MDN](https://developer.mozilla.org/en-US/docs/Learn), [freeCodeCamp](https://www.freecodecamp.org/)                                                                                                       |
+|      | Q2      | Web Development (Frontend frameworks)<br>Databases (Relational databases and SQL)                                           | [React](https://reactjs.org/docs/getting-started.html), [Angular](https://angular.io/docs), [Vue.js](https://vuejs.org/v2/guide/), [SQLZoo](https://sqlzoo.net/), [W3Schools](https://www.w3schools.com/sql/)                                                                          |
+|      | Q3      | Networking Basics<br>Databases (Database design and normalization)                                                          | [Cisco Networking Basics](https://www.netacad.com/courses/networking/networking-basics), [Database Design Tutorial](https://www.guru99.com/database-normalization.html), [Advanced SQL](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql?view=sql-server-ver15) |
+|      | Q4      | Cybersecurity (Introduction)<br>Cloud Computing (Introduction)                                                              | [Cybrary](https://www.cybrary.it/course/introduction-cyber-security/), [Cloud Computing Fundamentals](https://aws.amazon.com/getting-started/fundamentals-overview/)                                                                                                                   |
+| 2    | Q1      | Web Development (Backend technologies)<br>Cybersecurity (Cryptography and Network Security)                                 | [Node.js](https://nodejs.org/en/docs/), [Django](https://docs.djangoproject.com/en/3.2/), [Flask](https://flask.palletsprojects.com/en/2.0.x/), [Khan Academy Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)                                       |
+|      | Q2      | Networking Basics (IP addressing, subnetting)<br>Cloud Computing (Virtualization and containerization)                      | [SubnettingPractice](https://www.subnettingpractice.com/), [IPv6 Essentials](http://ipv6-essentials.com/), [Docker Documentation](https://docs.docker.com/), [Kubernetes Documentation](https://kubernetes.io/docs/home/)                                                              |
+|      | Q3      | Cybersecurity (Ethical hacking, penetration testing)<br>Cloud Computing (Cloud services and deployment models)              | [Metasploit Unleashed](https://www.metasploitunleashed.com/), [Amazon Web Services](https://aws.amazon.com/getting-started/), [Microsoft Azure](https://learn.microsoft.com/en-us/azure/), [Google Cloud Platform](https://cloud.google.com/)                                          |
+|      | Q4      | Finalize any remaining subjects<br>Enhance skills in specific areas of interest<br>Continuous learning and project building | -                                                                                                                                                                                                                                                                                      |
 
 **Note:** The provided resources are just starting points. Feel free to explore additional online courses, tutorials, and documentation.
 
@@ -442,10 +449,12 @@ Remember, your tech resume should showcase your technical prowess and enthusiasm
 We welcome contributions to improve and expand this IT Curriculum and Training Guide. Your contributions can help make this resource even more valuable for aspiring IT professionals. Here's a step-by-step guide on how you can contribute:
 
 1. **Fork the Repository:**
+
    - Visit the [IT Curriculum and Training Guide repository](https://github.com/carlcastanas/it-curriculum-guide).
    - Click the "Fork" button located at the upper right corner of the page. This will clone the repository to your GitHub account.
 
 2. **Clone Your Fork:**
+
    - Open a terminal on your computer.
    - Navigate to a directory where you want to store the project.
    - Clone your forked repository by running the following command:
@@ -455,11 +464,13 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
      ```
 
 3. **Create a New Branch:**
+
    - Move into the cloned repository's directory:
 
      ```shell
      cd it-curriculum-guide
      ```
+
    - Create a new branch for your contributions. Choose a descriptive branch name that reflects the changes you'll make:
 
      ```shell
@@ -467,21 +478,25 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
      ```
 
 4. **Make Your Contributions:**
+
    - Open the `README.md` file in a text editor of your choice.
    - Make the necessary changes. You can add new resources, update existing content, or contribute in any way you feel would be valuable.
 
 5. **Commit and Push Your Changes:**
+
    - Save the `README.md` file.
    - Add your changes to the staging area:
 
      ```shell
      git add README.md
      ```
+
    - Commit your changes with a clear and concise commit message:
 
      ```shell
      git commit -m "Add new resources for Web Development"
      ```
+
    - Push your changes to your forked repository on GitHub:
 
      ```shell
@@ -489,6 +504,7 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
      ```
 
 6. **Create a Pull Request:**
+
    - Visit your forked repository on GitHub.
    - Click the green "Compare & pull request" button.
    - Ensure the base repository is the original repository, and the base branch is `main`. The head repository and branch should be your fork and the branch you created.
@@ -496,10 +512,11 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
    - Click the "Create pull request" button.
 
 7. **Review and Collaborate:**
+
    - Your pull request will be reviewed by the repository maintainers.
    - Be open to feedback and participate in any discussions or requested changes.
 
 8. **Your Contribution Is Merged:**
    - Once your pull request is approved and any necessary changes are made, it will be merged into the main repository.
    - Congratulations! You've successfully contributed to the IT Curriculum and Training Guide.
-](.)
+     ](.)
