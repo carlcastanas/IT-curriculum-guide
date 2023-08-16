@@ -125,6 +125,7 @@ Programming languages are the heart of software development. Each language has i
 
 ## Free Courses You Need To Try
 
+- [The Odin Project - Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
 - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
 - [Coursera - Programming for Everybody (Python)](https://www.coursera.org/specializations/python)
 - [edX - Introduction to Java Programming](https://www.edx.org/course/introduction-to-java-programming)
