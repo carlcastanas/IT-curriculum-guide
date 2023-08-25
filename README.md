@@ -58,6 +58,7 @@ Starting a career in Information Technology (IT) may be both thrilling and intim
 - [HTML and CSS fundamentals](https://www.w3schools.com/html/), [CSS-Tricks](https://css-tricks.com/)
 - [JavaScript MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - Frontend frameworks: [React](https://reactjs.org/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/)
+- State Management: React([Redux](https://redux.js.org/), [Zustand](https://github.com/pmndrs/zustand), [Redux Toolkit](https://redux-toolkit.js.org/), [Recoil](https://recoiljs.org/)), Vue([Pinia](https://pinia.vuejs.org/))
 - Backend technologies: [Node.js](https://nodejs.org/), [Django](https://www.djangoproject.com/), [Ruby on Rails](https://rubyonrails.org/)
 - [FreeCodeCamp](https://www.freecodecamp.org/): Hands-on web development projects
 
