@@ -175,7 +175,6 @@ Programming languages are the heart of software development. Each language has i
     - [Django](https://www.djangoproject.com/)
     - [Laravel](https://laravel.com/)
     - [Ruby on Rails](https://rubyonrails.org/)
-    - [Actix Web](https://actix.rs/)
   - **Cross-Platform Applications**
     - Android, iOS
       - [React Native](https://reactnative.dev/)
@@ -234,6 +233,7 @@ Programming languages are the heart of software development. Each language has i
   - [Ruby on Rails](https://rubyonrails.org/)
   - [Django (Python)](https://www.djangoproject.com/)
   - [Flask (Python)](https://flask.palletsprojects.com/)
+  - [Actix Web](https://actix.rs/)
 
 - **Authentication and Authorization**
 
