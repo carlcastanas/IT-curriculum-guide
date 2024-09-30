@@ -61,6 +61,7 @@ Starting a career in Information Technology (IT) may be both thrilling and intim
 - State Management: React([Redux](https://redux.js.org/), [Zustand](https://github.com/pmndrs/zustand), [Redux Toolkit](https://redux-toolkit.js.org/), [Recoil](https://recoiljs.org/)), Vue([Pinia](https://pinia.vuejs.org/))
 - Backend technologies: [Node.js](https://nodejs.org/), [Django](https://www.djangoproject.com/), [Ruby on Rails](https://rubyonrails.org/)
 - [FreeCodeCamp](https://www.freecodecamp.org/): Hands-on web development projects
+- [Microsoft Cloud Advocates Repository](https://github.com/microsoft/Web-Dev-For-Beginners/): A 12-week Comprehensive Web Development Fundamental Course Repository 
 
 ## Mobile Development
 
@@ -521,4 +522,3 @@ We welcome contributions to improve and expand this IT Curriculum and Training G
 8. **Your Contribution Is Merged:**
    - Once your pull request is approved and any necessary changes are made, it will be merged into the main repository.
    - Congratulations! You've successfully contributed to the IT Curriculum and Training Guide.
-     ](.)
