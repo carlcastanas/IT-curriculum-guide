@@ -427,6 +427,7 @@ Here's a sample tech resume that you can use as a reference:
 
 ## Additional Resources
 
+- [JobEmerge](https://www.jobemerge.work) - Freemium AI career copilot with a job-fit test, resume translation, and a Markdown resume editor.
 - [Tech Resume Writing Tips by Dice](https://www.dice.com/tech-candidate/how-to-write-a-resume)
 - [GitHub's Guide to an Awesome GitHub Profile](https://github.com/features/actions)
 - [Coursera's Computer Science Courses](https://www.coursera.org/browse/computer-science)
